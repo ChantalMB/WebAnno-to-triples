@@ -1,0 +1,23 @@
+the J Paul Getty Museum, LOCATED_IN, Italy
+Getty, BOUGHT_FROM, Frieda Tchacos 
+Frieda Tchacos, CURATOR_OF, Galerie Nefer 
+Galerie Nefer , LOCATED_IN, Zurich
+Frieda Tchacos , LOCATED_IN, Zurich
+Tchacos, BOUGHT_FROM, Nino Savoca 
+Nino Savoca, LOCATED_IN, Munich
+Christian Boursaud, ESTABLISHED, the Geneva Hydra Gallery 
+Giacomo Medici, OPERATED_IN, The Hydra Gallery 
+Boursaud, ESTABLISHED, the Zbinden Collection 
+Dietrich von Bothmer, CONSIGNED_THROUGH, the Metropolitan Museum 
+Dietrich von Bothmer, BOUGHT_FROM, Robert Hecht 
+Dyfri Williams, CURATOR_OF, kylix
+Dyfri Williams, WORKED_WITH, the British Museum 
+Giacomo Medici, OPERATED_IN, Geneva
+Maria Rizzo, WORKED_WITH, Viterbo University 
+kylix, WAS_IN, Etruscan cemetery of Cerveteri 
+Marion True, CURATOR_OF, Getty
+statue of the god Mithra, BOUGHT_FROM, unnamed European dealer 
+statue of the god Mithra, WAS_IN, the Italian Giustiniani Collection 
+the Fleischman Collection, LOCATED_IN, Getty
+statue of the god Mithra, STORED_ANTIQUITIES_IN, the Fleischman Collection 
+statue of the god Mithra, ESTABLISHED_IN, Venosa
