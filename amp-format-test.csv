@@ -1,0 +1,498 @@
+Nicholas Hellmuth,implicated_in,Maya
+the New York Times,investigated,Maya
+Taj Chan Ahk,part_of,Maya
+the Pasión River,looted_from,Maya
+the Museo El Príncipe Maya,returned_to,Maya
+Cancuén,located_in,Guatemalan
+Maya,was_in,Cancuén
+the Pasión River,located_in,Cancuén
+the Museo El Príncipe Maya,located_in,Cobán
+Cobán,located_in,Guatemala
+Aidonia,located_in,Greece
+The Aidonia Treasure,looted_from,Aidonia
+the Greek Archaeological Service,operated_in,Greece
+The Aidonia Treasure,discovered_by,the Greek Archaeological Service
+the Greek Ministry of Culture,operated_in,Greece
+the Consul General of Greece,part_of,Greece
+Nemea,located_in,Greece
+Society for the Preservation of the Greek Heritage ( SPGH,donated,Greece
+Michael Ward Gallery,located_in,New York
+The Aidonia Treasure,part_of,Michael Ward Gallery
+John Betts,curator_of,Michael Ward Gallery
+the Cambridge Centre for Precious Metal Research,appraised_art_for,Michael Ward Gallery
+Ricardo Elia,investigated,Michael Ward Gallery
+the Greek Ministry of Culture,investigated,Michael Ward Gallery
+Michael Ward,donated,Michael Ward Gallery
+Jack Ogden,worked_with,the Cambridge Centre for Precious Metal Research
+Ricardo Elia,worked_with,the Consul General of Greece
+the Consul General of Greece,located_in,New York
+US,located_in,New York
+James Wright,operated_in,Nemea
+James Wright,worked_with,the Greek Archaeological Service
+Michael Ward Gallery,donated,Society for the Preservation of the Greek Heritage ( SPGH
+Michael Ward,worked_with,Society for the Preservation of the Greek Heritage ( SPGH
+UNESCO,president_of,Cara Sucia
+Santiago Ignacio Barbarena,excavated,Cara Sucia
+Mexico,bordered_by,the United States
+the United States,part_of,UNESCO
+UNESCO Convention,created_by,UNESCO
+Cara Sucia,located_in,El Salvador
+Guatemala,bordered_by,El Salvador
+Ahuachapán,part_of,Guatemala
+the Pacific Coast,part_of,Guatemala
+Mexico,bordered_by,Guatemala
+Cara Sucia,from_culture,the Cotzumalhuapa Culture
+Herbert J Spinden,excavated,Cara Sucia
+Alberto Luna,implicated_in,Cara Sucia
+Alberto Luna,located_in,Mexico
+the National Commission for Culture and Art ( CONCULTURA ),part_of,El Salvador
+the National Foundation for Archaeology ( FUNDAR,part_of,El Salvador
+the National Commission for Culture and Art  CONCULTURA,partners_with,the National Foundation for Archaeology ( FUNDAR
+Paul Amaroli,investigated,Cara Sucia
+Stanley Boggs,investigated,Cara Sucia
+Cara Sucia,smuggled_to,the United States
+Cara Sucia,smuggled_to,Japan
+Cara Sucia,smuggled_to,Saudi Arabia
+the United States,relationship_with,El Salvador
+El Salvador,created_by,Emergency Import Restrictions
+the United States,participated_in,Emergency Import Restrictions
+the Cultural Property Implementation Act,part_of,Emergency Import Restrictions
+Cara Sucia,restricted_by,the Cultural Property Implementation Act
+the United States,part_of,Memorandum of Understanding
+El Salvador,part_of,Memorandum of Understanding
+Memorandum of Understanding,part_of,UNESCO Convention
+the Italian Carabinieri,part_of,Italy
+Italian,part_of,Italy
+the Cleveland Museum,returned_to,Italy
+Red-figure duck askos,returned_to,Italy
+Swiss,partners_with,the Italian Carabinieri
+Giacomo Medici,from_culture,Italian
+Gianfranco Becchina,from_culture,Italian
+the Italian Carabinieri,investigated,Giacomo Medici
+Giacomo Medici,stored_antiquities_in,Geneva Freeport
+the Italian Carabinieri,raided_by,Geneva Freeport
+the Italian Carabinieri,investigated,Robert Hecht
+Robert Hecht,stored_antiquities_in,Paris
+Italy,home_of,Italian
+the Italian Carabinieri,investigated,Gianfranco Becchina
+Gianfranco Becchina,stored_antiquities_in,Basel
+John Cooney,curator_of,Cleveland Museum of Art.As
+Cleveland Museum of ArtAs,located_in,Cleveland
+Cleveland,located_in,the United States
+Switzerland,smuggled_antiquities_to,the United States
+Timothy Rub,president_of,the Cleveland Museum
+Suzan Mazur,investigated,the Cleveland Museum
+the Apollo Sauroktonos,located_in,the Cleveland Museum
+Victory with Cornucopia,located_in,the Cleveland Museum
+Sicilian,was_in,the Cleveland Museum
+Processional Cross,was_in,the Cleveland Museum
+Donkey-head rhyton,was_in,the Cleveland Museum
+Campanian,was_in,the Cleveland Museum
+Leo Mildenberg,donated_to,the Cleveland Museum
+Jonathan P Rosen,donated_to,the Cleveland Museum
+Apulian Gnathia,was_in,the Cleveland Museum
+Apulian Gnathia,was_in,the Cleveland Museum
+Campanian,was_in,the Cleveland Museum
+LA Fleischman,donated_to,the Cleveland Museum
+Campanian bird askos,was_in,the Cleveland Museum
+Apulian,was_in,the Cleveland Museum
+Warrior,was_in,the Cleveland Museum
+Column krater,was_in,the Cleveland Museum
+E Almagia and C Keep,donated_to,the Cleveland Museum
+Bracelet,was_in,the Cleveland Museum
+the Cleveland Museum,partners_with,Italian
+Italian,donated,the Apollo Sauroktonos
+Italian,donated,Victory with Cornucopia
+the Cleveland Museum,was_in,Red-figure duck askos
+Chiusi,located_in,Italy
+Sicilian,returned_to,Italy
+Processional Cross,returned_to,Italy
+Donkey-head rhyton,returned_to,Italy
+Redfigure duck askos,was_in,Chiusi
+Redfigure duck askos,from_culture,Etruscan
+Leo Mildenberg,donated,Sicilian
+Sicilian,was_in,Sicily
+Donkeyhead rhyton,was_in,Greece
+Jonathan P Rosen,donated,Campanian
+Apulia,located_in,South Italy
+Campanian,was_in,Apulia
+Jonathan P Rosen,donated,Apulian Gnathia
+South Italy,part_of,Italy
+Campanian,returned_to,Italy
+Middle Gnathia,located_in,Italy
+Apulian Gnathia,returned_to,Italy
+Apulian Gnathia,was_in,Middle Gnathia
+Jonathan P Rosen,donated,Apulian Gnathia
+Campanian,returned_to,Italy
+Apulian Gnathia,was_in,Middle Gnathia
+Apulian Gnathia,returned_to,Italy
+Campanian bird askos,returned_to,Italy
+Apulian,returned_to,Italy
+Sardinia,located_in,Italy
+Warrior,returned_to,Italy
+Column krater,returned_to,Italy
+Apulian Gnathia,was_in,Middle Gnathia
+Jonathan P Rosen,donated,Campanian
+Campania,located_in,South Italy
+Campanian,was_in,Campania
+LA Fleischman,donated,Campanian bird askos
+Campanian bird askos,was_in,Campania
+Darius Painter,from_culture,Apulian
+Apulian,from_culture,Italian
+Warrior,was_in,Sardinia
+Early Corinthianearly Middle Corinthian,part_of,Greece
+Column krater,from_culture,Early Corinthian–early Middle Corinthian
+E Almagia and C Keep,donated,Bracelet
+Bracelet,returned_to,Italy
+Bracelet,from_culture,Etruscan
+E Almagia and C Keep,partners_with,Arielle P Kozloff
+Guillermo Chacón Carrasco,looted,Momia de Cerro El Plomo
+The Museo Histórico Nacional,rejected,Momia de Cerro El Plomo
+El Museo Nacional de Historia Natural Inka Frozen Mummies During the Inka Empire,located_in,Chile
+Puente Alto,located_in,Chile
+the Chilean Andes,located_in,Chile
+Santiago,located_in,Chile
+Capacocha,part_of,El Museo Nacional de Historia Natural Inka Frozen Mummies During the Inka Empire
+Capacocha,from_culture,Inka
+Momia de Cerro El Plomo,discovered_by,Guillermo Chacón Carrasco
+Humberto Fuenzalida,partners_with,Guillermo Chacón Carrasco
+Humberto Fuenzalida,bought_from,Guillermo Chacón Carrasco
+Momia de Cerro El Plomo,discovered_by,Luis Gerardo Ríos Barrueto
+Momia de Cerro El Plomo,discovered_by,Jaime Ríos Abarca
+Guillermo Chacón Carrasco,operated_in,Puente Alto
+Luis Gerardo Ríos Barrueto,operated_in,Puente Alto
+Jaime Ríos Abarca,operated_in,Puente Alto
+Momia de Cerro El Plomo,was_in,Cerro El Plomo
+Cerro El Plomo,part_of,the Chilean Andes
+Guillermo Chacón Carrasco,sold_antiquities_in,Santiago
+The Museo Histórico Nacional,located_in,Santiago
+the Museo Nacional de Historia Natural,located_in,Santiago
+Grete Mostny,president_of,the Museo Nacional de Historia Natural
+Humberto Fuenzalida,worked_for,the Museo Nacional de Historia Natural
+Collasuyu,part_of,the Inka Empire
+Collasuyu,located_in,the Peru/Bolivia Altiplano
+Chile,*,the Peru/Bolivia Altiplano
+Collasuyu,located_in,Chile
+Collasuyu,located_in,Argentina
+Chile,bordered_by,Argentina
+Petén,located_in,Cancuén
+Petén,from_culture,Classic Maya
+Cancuén,located_in,Guatemala
+Petén,discovered_by,Teobert Maler
+Cancuén,located_in,Guatemala
+Guatemala City,located_in,Guatemala
+Cancuén,from_culture,Maya
+Sylvanus G Morley,curator_of,Maya
+ballcourt marker,from_culture,Maya
+ballcourt marker,discovered_by,Sylvanus G Morley
+Arthur Demarest,president_of,the Guatemalan Ministry of Culture
+The Looting of the Ballcourt Marker Reports,created_by,the Guatemalan Ministry of Culture
+Looters,looted,ballcourt marker
+Tajal Chan Ahk,part_of,ballcourt marker
+ballcourt marker,smuggled,the Pasión River
+the Pasión River,located_in,Guatemala
+Servícios de Investigación Criminal,part_of,Guatemala
+Melchor de Mencos,located_in,Guatemala
+Recovery of the Ballcourt Marker,created_by,Servícios de Investigación Criminal
+Arthur Demarest,worked_with,Servícios de Investigación Criminal
+Looters,arrested_by,Marc Wolf
+Looters,smuggled_antiquities_to,Melchor de Mencos
+Tajal Chan Ahk,from_culture,Maya
+ballcourt marker,returned_to,the National Museum of Archaeology
+the National Museum of Archaeology,located_in,Guatemala City
+the New York Times,investigated,Cancuén
+Nahuatl,home_of,Mexico
+Tlaxcala,located_in,Mexico
+Antonio de León,operated_in,Mexico
+José Luis Castañeda del Valle,home_of,Mexico
+the Biblioteca del Instituto Nacional de Antropología e Historia,located_in,Mexico
+Paris,located_in,France
+the Bibliothèque National,located_in,France
+The Aubin Tonalamatl,stolen_from,the Bibliothèque National
+The Aubin Tonalamatl,donated,the Bibliothèque National
+Lorenzo Boturini Benaduci,discovered_by,The Aubin Tonalamatl
+Antonio de León,bought,The Aubin Tonalamatl
+Charles Eugène Espidon Goupil,bought,The Aubin Tonalamatl
+Charles Eugène Espidon Goupil,created_by,The Aubin Tonalamatl
+The Aubin Tonalamatl,from_culture,Nahuatl
+The Aubin Tonalamatl,located_in,Tlaxcala
+Lorenzo Boturini Benaduci,was_in,New Spain
+Mexico,part_of,New Spain
+Carl Nebel,bought_from,Antonio de León
+Jean-Frédéric Waldek,bought_from,Antonio de León
+Carl Nebel,sold_antiquities_to,Waldek
+Waldek,sold_antiquities_to,Joseph Marius Alexis Aubin
+Joseph Marius Alexis Aubin,located_in,Paris
+Joseph Marius Alexis Aubin,sold_antiquities_to,Charles Eugène Espidon Goupil
+The Aubin Tonalamatl,stolen_by,José Luis Castañeda del Valle
+The Secretaría de Relaciones Exteriores de Mexico,Defended,José Luis Castañeda del Valle
+José Luis Castañeda del Valle,donated,the Biblioteca del Instituto Nacional de Antropología e Historia
+José Luis Castañeda del Valle,home_of,Cancus
+Cancus,located_in,Mexico
+The Secretaría de Relaciones Exteriores de Mexico,part_of,Mexico
+Carlos Salinas,president_of,Mexico
+the Aubin Tonalamatl,returned_to,Mexico
+the Antonine Wall,located_in,Scotland
+the Royal Commission on the Ancient and Historic Monuments of Scotland,part_of,Scotland
+East Dumbartonshire,located_in,Scotland
+Historic Scotland,part_of,Scotland
+UK,part_of,Scotland
+Rough Castle,part_of,the Antonine Wall
+Peel Park,part_of,the Antonine Wall
+heavily-corroded iron axehead,looted_from,Rough Castle
+Oxford Archaeology,investigated,Rough Castle
+heavilycorroded iron axehead,donated,the Falkirk Museum
+Historic Scotland,investigated,Peel Park
+Strathclyde Police,investigated,Peel Park
+Peel Park,located_in,East Dumbartonshire
+Strathclyde Police,worked_with,Historic Scotland
+Belitung,located_in,Sumatra
+Sumatra,part_of,Indonesia
+the Tang Dynasty,from_culture,China
+The Classic of Tea,from_culture,the Tang Dynasty
+In Chajing,from_culture,the Tang Dynasty
+Seabed Explorations,salvaged,Belitung
+Indonesia,rejected,the UNESCO 2001 Convention on the Protection of Underwater Cultural Heritage
+Indonesia,established,National Committee for Salvage and Utilization of Valuable Cargo Objects from Sunken Ships
+Seabed Explorations,worked_with,National Committee for Salvage and Utilization of Valuable Cargo Objects from Sunken Ships
+Tilman Walterfang,established,Seabed Explorations
+Michael Flecker,appraised_art_for,Seabed Explorations
+Tilman Walterfang,from_culture,German
+Tang Treasures,excavated,Seabed Explorations
+Seabed Explorations,stored_antiquities_in,Germany
+Seabed Explorations,stored_antiquities_in,New Zealand
+Seabed Explorations,excavated,Monsoon Winds
+Tilman Walterfang,sold_antiquities_to,the Sentosa Leisure Group
+the Sentosa Leisure Group,part_of,the Sentosa Development Corporation
+Singapore,established,the Sentosa Development Corporation
+the Sentosa Development Corporation,worked_with,the Singapore Tourism Board
+the Singapore Tourism Board,worked_with,the Asian Civilizations Museum
+the Asian Civilizations Museum,located_in,Singapore
+the Asian Civilizations Museum,exhibited,‘ Tang Treasures from the Sea ’
+Secrets of the Tang Treasure Ship,alias,Belitung
+Secrets of the Tang Treasure Ship,created_by,The National Geographic
+The True History of Tea,created_by,Victor Mair
+Victor Mair,worked_for,the University of Pennsylvania
+The True History of Tea,alias,Belitung
+Shipwrecked : Tang Treasures,created_by,Julian Raby
+Monsoon Winds,created_by,Julian Raby
+Julian Raby,worked_for,the Smithsonian Institution ’ s Freer/Sackler Galleries
+Singapore Tourism Board,worked_with,the Smithsonian Institution ’ s Freer/Sackler Galleries
+Pamelia Lee,worked_for,Singapore Tourism Board
+the Sackler Gallery,exhibited,Shipwrecked : Tang Treasures
+the Sackler Gallery,exhibited,Monsoon Winds
+the Smithsonian Congress of Scholars,investigated,the Sackler Gallery
+The American Association of Museums,investigated,the Sackler Gallery
+Julian Raby,worked_with,the Sackler Gallery
+The New York Times,investigated,the Smithsonian Congress of Scholars
+NPR,investigated,the Smithsonian Congress of Scholars
+The American Association of Museums,from_culture,the United States
+the United States,authenticated,the UNESCO 2001 Convention
+Belitung,listed_on,YouTube
+Behbeit elHagar,stolen_from,Egypt
+Christine FavardMeeks,stored_antiquities_in,New York Lot 294
+New York Lot 294,located_in,New York
+Supreme Council of Antiquities,investigated,Christine Favard-Meeks
+Christine FavardMeeks,stole,Behbeit el-Hagar
+Customs and Immigration Enforcement,worked_with,Supreme Council of Antiquities
+the Thai Fine Arts,operated_in,Ban Chiang
+the University of Pennsylvania Museum,operated_in,Ban Chiang
+the Fine Arts Department,operated_in,Ban Chiang
+Ban Chiang,located_in,Udon Thani province
+Udon Thani province,located_in,Thailand
+Bangkok,located_in,Thailand
+Udon,located_in,Thailand
+Udon,part_of,US
+Chester Gorman,worked_with,University of Pennsylvania
+Chester Gorman,operated_in,Ban Chiang
+California,looted_from,Ban Chiang
+Ban Chiang,listed_on,the UNESCO World Heritage List
+federal agents,investigated,several dealers and museums
+several dealers and museums,located_in,California
+Huaca Loro,located_in,Batán Grande
+Huaca Tres Ventanas,located_in,Batán Grande
+Huaca la Merced,located_in,Batán Grande
+Batán Grande,part_of,the Santuario Histórico Bosque de Pómac
+the Santuario Histórico Bosque de Pómac,located_in,La Leche
+La Leche,located_in,the Pitipo District
+the Pitipo District,located_in,the Lambayeque Province
+the Lambayeque Province,located_in,Peru
+Lima,located_in,Peru
+Batán Grande,from_culture,the Lambayeque Culture
+the Lambayeque Culture,part_of,the Sicán Culture
+Izumi Shimada,excavated,Batán Grande
+Walter Alva,excavated,Batán Grande
+Miguel Mujica Gallo,donated_to,Museo Oro del Peru
+Museo Oro del Peru,located_in,Lima
+Miguel Mujica Gallo,implicated_in,Batán Grande
+Edmundo,looted_from,Batán Grande
+Oswaldo Aurich Bonilla,looted_from,Batán Grande
+Juan José Aurich Pastor,looted_from,Batán Grande
+Oswaldo Aurich Bonilla,related_to,Juan José Aurich Pastor
+Edmundo,related_to,Juan José Aurich Pastor
+Denis Garcia,worked_with,Edmundo
+Edmundo,related_to,Oswaldo Aurich Bonilla
+Denis Garcia,worked_with,Oswaldo Aurich Bonilla
+Manual Bacigalupo Remy,bought_from,Oswaldo Aurich Bonilla
+Oswaldo Aurich Bonilla,looted_from,Sípan
+Edmundo,looted_from,Sípan
+Denis Garcia,arrested_by,FBI
+Denis Garcia,looted,Batán Grande
+Julio Tello,investigated,Batán Grande
+Julio Tello,worked_for,the Museo de Arqueología Peruana
+Julio Tello,investigated,Huaca La Merced
+Julio Tello,investigated,Huaca Tres Ventanas
+New York Antiquities,sold,Egyptian
+Egyptian,stolen_from,the Bijbels Museum
+the Bijbels Museum,*,Amsterdam
+Immigration and Customs Enforcement,investigated,Christie
+Egyptian,listed_on,The Art Loss Register
+Christie,sold_antiquities_through,New York Antiquities
+the Temple of Artemis,part_of,Benghazi Treasure
+the Palace of Columns,part_of,Benghazi Treasure
+Meliu,part_of,Benghazi Treasure
+Italy,was_in,Benghazi Treasure
+Italian,smuggled,Benghazi Treasure
+Val Brenta,was_in,Benghazi Treasure
+Benghazi Treasure,was_in,Cyrenaica
+Cyrenaica,*,Libya
+the Department of Antiquities,part_of,Libya
+the Temple of Artemis,was_in,Cyrene
+the Palace of Columns,was_in,Ptolemais
+Rome,located_in,Italy
+Cremona,located_in,Italy
+Val Brenta,located_in,Italy
+Benghazi Treasure,was_in,Rome
+Benghazi Treasure,was_in,Cremona
+the Museo Coloniale,located_in,Rome
+Benghazi Treasure,was_in,the Museo Coloniale
+Benghazi Treasure,returned_to,Libya
+Benghazi Treasure,stolen_from,the National Commercial Bank
+Osama El-Ketaf,president_of,the National Commercial Bank
+the National Commercial Bank,located_in,Omar al-Mukhtar Street
+Omar alMukhtar Street,located_in,Benghazi
+Benghazi Treasure,recovered_by,Mohammed El-Shelmany
+Mohammed El-Shelmany,president_of,the Department of Antiquities
+Hafed Walda,investigated,the Department of Antiquities
+Osama El-Ketaf,investigated,the Department of Antiquities
+Ahmed Buzaian,worked_for,Benghazi University
+Ahmed Buzaian,investigated,the Department of Antiquities
+UNESCO,investigated,the Department of Antiquities
+Francesco Bandarin,president_of,UNESCO
+Benghazi Treasure,smuggled,Egypt
+England,part_of,the United Kingdom
+Corstopitum,alias,Corbridge
+Roman Dere Street,part_of,Corbridge
+Stanegate,part_of,Corbridge
+English,curator_of,Corbridge
+Corbridge,from_culture,Roman
+Corbridge,located_in,Northumberland
+Hadrian,located_in,Northumberland
+Dobinson,investigated,Corbridge
+Denison,investigated,Corbridge
+Northumberland,located_in,England
+Coptic Art,located_in,Brooklyn Museum
+Coptic Art,located_in,the Metropolitan Museum
+the Metropolitan Museum,located_in,New York
+Brooklyn Museum,located_in,New York
+Coptic Art,located_in,Louvre
+Coptic Art,part_of,Egypt
+Coptic Art,from_culture,Coptic Christian
+John Beckwith,investigated,Coptic Art
+Gary Vikan,investigated,Coptic Art
+Coptic Art,stolen_from,Sheikh Ibada
+Sheikh Ibada,located_in,Egypt
+Coptic Art,located_in,Recklinghausen
+Recklinghausen,located_in,Germany
+Unearthing the Truth : Egypt ’,part_of,Coptic Art
+Pagan and Coptic Sculpture ”,part_of,Coptic Art
+Pagan and Coptic Sculpture,exhibited,the Brooklyn Museum
+the Brooklyn Museum,exhibited,Unearthing the Truth : Egypt ’
+Aymara Textiles,from_culture,Aymara
+Aymara Textiles,looted_from,Coroma
+Coroma,located_in,Potosí
+Potosí,located_in,Bolivia
+Uyuni,located_in,Bolivia
+Oruro,located_in,Bolivia
+Coroma,home_of,Aymara
+Coroma,home_of,Quechua
+the Bolivian National Archives,part_of,Bolivia
+John Murra,worked_with,Cristina Bubba
+Cristina Bubba,worked_with,the Bolivian National Archives
+the United States Customs,partners_with,the Bolivian National Archives
+the Bolivian National Archives,excavated,Coroma
+the Smithsonian Institution,located_in,the United States
+San Francisco,located_in,the United States
+the United States Customs,part_of,the United States
+Canada,bordered_by,the United States
+US,alias,the United States
+State Department Cultural Property Advisory,part_of,the United States
+the United States,home_of,John Murra
+Aymara Textiles,smuggled_to,San Francisco
+Aymara Textiles,smuggled_to,Canada
+the Royal Canadian Mounted Police,part_of,Canada
+Nova Scotia,located_in,Canada
+San Francisco,home_of,Steven Berger
+Roger Cornelius Russell Yorke,arrested_by,the Royal Canadian Mounted Police
+Steven Berger,sold_antiquities_to,Roger Cornelius Russell Yorke
+Truro,home_of,Roger Cornelius Russell Yorke
+Truro,located_in,Nova Scotia
+La Paz,located_in,Bolivia
+Roger Cornelius Russell Yorke,operated_in,La Paz
+State Department Cultural Property Advisory,worked_with,Bolivia
+Bolivia,part_of,"UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import , Export and Transfer of Ownership of Cultural Property"
+Canada,*,"UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import , Export and Transfer of Ownership of Cultural Property"
+the United States,*,"UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import , Export and Transfer of Ownership of Cultural Property"
+Cultural Property Implementation Act,part_of,Bolivia
+the United States,part_of,Cultural Property Implementation Act
+Michael Ratner,worked_for,Coroma
+Bill Verick,worked_for,Coroma
+Jordan Eth,worked_for,Coroma
+Michael Ratner,investigated,Stephen Berger
+Bill Verick,investigated,Stephen Berger
+Jordan Eth,investigated,Stephen Berger
+Cultural Property Export and Import Act,part_of,Canada
+Karahalios,looted_from,Corinth
+the American School of Classical Studies,excavated,Corinth
+Greek,investigated,Corinth
+Minerva,investigated,Corinth
+Corinth,located_in,Greece
+Athens,located_in,Greece
+Greek,part_of,Greece
+Turkey,bordered_by,Greece
+Karahalios,sold_antiquities_to,New York
+Karahalios,sold_antiquities_to,Miami
+the Greek Archaeological Service,partners_with,the American School of Classical Studies
+The Property of an American Private Collector ’,stolen_from,the American School of Classical Studies
+the American School of Classical Studies,operated_in,Athens
+Greek,worked_with,the Greek Archaeological Service
+FBI,partners_with,Greek
+Anastasios Karahalios,arrested_by,Greek
+Ioannis Loris,arrested_by,Greek
+Tryfonas Karahalios,arrested_by,Greek
+Greek,partners_with,Minerva
+Anastasios Karahalios,part_of,Karahalios
+Ioannis Loris,part_of,Karahalios
+Tryfonas Karahalios,part_of,Karahalios
+Tryfonas Karahalios,related_to,Anastasios Karahalios
+George Karahalios,related_to,Anastasios Karahalios
+Wilma Sabala,home_of,Miami
+Tryfonas Karahalios,sold_antiquities_to,Wilma Sabala
+The Property of an American Private Collector ’,created_by,Wilma Sabala
+George Karahalios,partners_with,Wilma Sabala
+Venezuela,home_of,Tryfonas Karahalios
+Wilma Sabala,sold_to,Christie ’
+Jerome Eisenberg,bought_from,Christie ’
+Christie ’,bought,The Property of an American Private Collector ’
+Jerome Eisenberg,bought,The Property of an American Private Collector ’
+Jerome Eisenberg,worked_for,Minerva
+Jerome Eisenberg,worked_for,Royal Athena Galleries
+Royal Athena Galleries,located_in,New York City
+Jerome Eisenberg,worked_with,FBI
+Wilma Sabala,arrested_by,FBI
+the Greek Ministry of Culture,part_of,Greece
+Miami,home_of,George Karahalios
+Anastasios Karahalios,smuggled_antiquities_through,Turkey
+Anastasios Karahalios,smuggled_antiquities_through,Aachen
+Aachen,located_in,Germany
+Anastasios Karahalios,sold_antiquities_to,George Karahalios
