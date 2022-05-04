@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.StanzaNER|value
+#T_RL=webanno.custom.Relationships|Relationship|BT_webanno.custom.StanzaNER
+
+
+#Text=Egyptian artefacts stolen from the Bijbels Museum in Amsterdam and returned by Christie ’ s New York In May 2009 , US Immigration and Customs Enforcement announced the recovery of seven ancient Egyptian artefacts that had been stolen from the Amsterdam Bijbels Museum on 29 July 2007 .
+1-1	0-8	Egyptian	WORK\_OF\_ART[1]|NORP[2]	sold	2-14[11_1]	
+1-2	9-18	artefacts	WORK\_OF\_ART[1]	_	_	
+1-3	19-25	stolen	_	_	_	
+1-4	26-30	from	_	_	_	
+1-5	31-34	the	FAC[3]	stolen\_from	1-1[1_3]	
+1-6	35-42	Bijbels	FAC[3]	_	_	
+1-7	43-49	Museum	FAC[3]	_	_	
+1-8	50-52	in	_	_	_	
+1-9	53-62	Amsterdam	GPE	*	1-5[3_0]	
+1-10	63-66	and	_	_	_	
+1-11	67-75	returned	_	_	_	
+1-12	76-78	by	_	_	_	
+1-13	79-87	Christie	PERSON	investigated	1-23[6_0]	
+1-14	88-89	’	_	_	_	
+1-15	90-91	s	_	_	_	
+1-16	92-95	New	GPE[4]	_	_	
+1-17	96-100	York	GPE[4]	_	_	
+1-18	101-103	In	_	_	_	
+1-19	104-107	May	DATE[5]	_	_	
+1-20	108-112	2009	DATE[5]	_	_	
+1-21	113-114	,	_	_	_	
+1-22	115-117	US	GPE	_	_	
+1-23	118-129	Immigration	ORG[6]	_	_	
+1-24	130-133	and	ORG[6]	_	_	
+1-25	134-141	Customs	ORG[6]	_	_	
+1-26	142-153	Enforcement	ORG[6]	_	_	
+1-27	154-163	announced	_	_	_	
+1-28	164-167	the	_	_	_	
+1-29	168-176	recovery	_	_	_	
+1-30	177-179	of	_	_	_	
+1-31	180-185	seven	CARDINAL	_	_	
+1-32	186-193	ancient	_	_	_	
+1-33	194-202	Egyptian	NORP	_	_	
+1-34	203-212	artefacts	_	_	_	
+1-35	213-217	that	_	_	_	
+1-36	218-221	had	_	_	_	
+1-37	222-226	been	_	_	_	
+1-38	227-233	stolen	_	_	_	
+1-39	234-238	from	_	_	_	
+1-40	239-242	the	ORG[7]	_	_	
+1-41	243-252	Amsterdam	ORG[7]	_	_	
+1-42	253-260	Bijbels	ORG[7]	_	_	
+1-43	261-267	Museum	ORG[7]	_	_	
+1-44	268-270	on	_	_	_	
+1-45	271-273	29	DATE[8]	_	_	
+1-46	274-278	July	DATE[8]	_	_	
+1-47	279-283	2007	DATE[8]	_	_	
+1-48	284-285	.	_	_	_	
+
+#Text=The Art Loss Register had recognized the artefacts in a Christie ’ s New York Antiquities auction catalogue prior to sale .
+2-1	286-289	The	ORG[9]	listed\_on	1-1[1_9]	
+2-2	290-293	Art	ORG[9]	_	_	
+2-3	294-298	Loss	ORG[9]	_	_	
+2-4	299-307	Register	ORG[9]	_	_	
+2-5	308-311	had	_	_	_	
+2-6	312-322	recognized	_	_	_	
+2-7	323-326	the	_	_	_	
+2-8	327-336	artefacts	_	_	_	
+2-9	337-339	in	_	_	_	
+2-10	340-341	a	_	_	_	
+2-11	342-350	Christie	ORG[10]	_	_	
+2-12	351-352	’	ORG[10]	_	_	
+2-13	353-354	s	_	_	_	
+2-14	355-358	New	ORG[11]	sold\_antiquities\_through	2-11[10_11]	
+2-15	359-363	York	ORG[11]	_	_	
+2-16	364-375	Antiquities	ORG[11]	_	_	
+2-17	376-383	auction	_	_	_	
+2-18	384-393	catalogue	_	_	_	
+2-19	394-399	prior	_	_	_	
+2-20	400-402	to	_	_	_	
+2-21	403-407	sale	_	_	_	
+2-22	408-409	.	_	_	_	

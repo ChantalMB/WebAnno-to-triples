@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.StanzaNER|value
+
+
+#Text=Marble head stolen from Algerian museum recovered from Christie ’ s New York in 2004 .
+1-1	0-6	Marble	_	
+1-2	7-11	head	_	
+1-3	12-18	stolen	_	
+1-4	19-23	from	_	
+1-5	24-32	Algerian	NORP	
+1-6	33-39	museum	_	
+1-7	40-49	recovered	_	
+1-8	50-54	from	_	
+1-9	55-63	Christie	ORG[1]	
+1-10	64-65	’	ORG[1]	
+1-11	66-67	s	_	
+1-12	68-71	New	GPE[2]	
+1-13	72-76	York	GPE[2]	
+1-14	77-79	in	_	
+1-15	80-84	2004	DATE	
+1-16	85-86	.	_	
+
+#Text=In 2004 , Christie ’ s New York featured on the front cover of its 8 June Antiquities auction catalogue a late-second-century AD marble head of the Roman emperor Marcus Aurelius .
+2-1	87-89	In	_	
+2-2	90-94	2004	DATE	
+2-3	95-96	,	_	
+2-4	97-105	Christie	PERSON[3]	
+2-5	106-107	’	PERSON[3]	
+2-6	108-109	s	_	
+2-7	110-113	New	GPE[4]	
+2-8	114-118	York	GPE[4]	
+2-9	119-127	featured	_	
+2-10	128-130	on	_	
+2-11	131-134	the	_	
+2-12	135-140	front	_	
+2-13	141-146	cover	_	
+2-14	147-149	of	_	
+2-15	150-153	its	_	
+2-16	154-155	8	CARDINAL	
+2-17	156-160	June	ORG[5]	
+2-18	161-172	Antiquities	ORG[5]	
+2-19	173-180	auction	_	
+2-20	181-190	catalogue	_	
+2-21	191-192	a	_	
+2-22	193-212	late-second-century	_	
+2-23	213-215	AD	_	
+2-24	216-222	marble	_	
+2-25	223-227	head	_	
+2-26	228-230	of	_	
+2-27	231-234	the	_	
+2-28	235-240	Roman	NORP	
+2-29	241-248	emperor	_	
+2-30	249-255	Marcus	PERSON[6]	
+2-31	256-264	Aurelius	PERSON[6]	
+2-32	265-266	.	_	
+
+#Text=Offered as lot 69 , the provenance of the head was given as ‘ with N Koutoulakis , Paris , circa late 1940s ’ .
+3-1	267-274	Offered	_	
+3-2	275-277	as	_	
+3-3	278-281	lot	_	
+3-4	282-284	69	CARDINAL	
+3-5	285-286	,	_	
+3-6	287-290	the	_	
+3-7	291-301	provenance	_	
+3-8	302-304	of	_	
+3-9	305-308	the	_	
+3-10	309-313	head	_	
+3-11	314-317	was	_	
+3-12	318-323	given	_	
+3-13	324-326	as	_	
+3-14	327-328	‘	_	
+3-15	329-333	with	_	
+3-16	334-335	N	GPE[7]	
+3-17	336-347	Koutoulakis	GPE[7]	
+3-18	348-349	,	_	
+3-19	350-355	Paris	GPE	
+3-20	356-357	,	_	
+3-21	358-363	circa	DATE[8]	
+3-22	364-368	late	DATE[8]	
+3-23	369-374	1940s	DATE[8]	
+3-24	375-376	’	_	
+3-25	377-378	.	_	
+
+#Text=Interpol and the Art Loss Register recognized the head as being one of nine pieces stolen from a museum in Skikda , Algeria in 1996 .
+4-1	379-387	Interpol	ORG	
+4-2	388-391	and	_	
+4-3	392-395	the	ORG[9]	
+4-4	396-399	Art	ORG[9]	
+4-5	400-404	Loss	ORG[9]	
+4-6	405-413	Register	ORG[9]	
+4-7	414-424	recognized	_	
+4-8	425-428	the	_	
+4-9	429-433	head	_	
+4-10	434-436	as	_	
+4-11	437-442	being	_	
+4-12	443-446	one	CARDINAL	
+4-13	447-449	of	_	
+4-14	450-454	nine	CARDINAL	
+4-15	455-461	pieces	_	
+4-16	462-468	stolen	_	
+4-17	469-473	from	_	
+4-18	474-475	a	_	
+4-19	476-482	museum	_	
+4-20	483-485	in	_	
+4-21	486-492	Skikda	GPE	
+4-22	493-494	,	_	
+4-23	495-502	Algeria	GPE	
+4-24	503-505	in	_	
+4-25	506-510	1996	DATE	
+4-26	511-512	.	_	
+
+#Text=The head was seized by US Immigration and Customs Enforcement and returned to Algeria in January 2008 .
+5-1	513-516	The	_	
+5-2	517-521	head	_	
+5-3	522-525	was	_	
+5-4	526-532	seized	_	
+5-5	533-535	by	_	
+5-6	536-538	US	GPE	
+5-7	539-550	Immigration	LAW[10]	
+5-8	551-554	and	LAW[10]	
+5-9	555-562	Customs	LAW[10]	
+5-10	563-574	Enforcement	LAW[10]	
+5-11	575-578	and	_	
+5-12	579-587	returned	_	
+5-13	588-590	to	_	
+5-14	591-598	Algeria	GPE	
+5-15	599-601	in	_	
+5-16	602-609	January	DATE[11]	
+5-17	610-614	2008	DATE[11]	
+5-18	615-616	.	_	

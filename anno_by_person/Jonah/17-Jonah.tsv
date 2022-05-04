@@ -1,0 +1,255 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.StanzaNER|value
+#T_RL=webanno.custom.Relationships|Relationship|BT_webanno.custom.StanzaNER
+
+
+#Text=Stolen Egyptian tomb relief recovered from Bonhams in 2008 .
+1-1	0-6	Stolen	_	_	_	
+1-2	7-15	Egyptian	WORK\_OF\_ART[1]|NORP[2]	recovered	1-7[0_1]	
+1-3	16-20	tomb	WORK\_OF\_ART[1]	_	_	
+1-4	21-27	relief	WORK\_OF\_ART[1]	_	_	
+1-5	28-37	recovered	_	_	_	
+1-6	38-42	from	_	_	_	
+1-7	43-50	Bonhams	ORG	_	_	
+1-8	51-53	in	_	_	_	
+1-9	54-58	2008	DATE	in	1-7	
+1-10	59-60	.	_	_	_	
+
+#Text=Lot 66 in the Bonhams London 1 May 2008 Antiquities catalogue was described as ‘ An Egyptian carved limestone relief fragment Late Period , 26th Dynasty , circa 665–525 BC ’ .
+2-1	61-64	Lot	_	_	_	
+2-2	65-67	66	CARDINAL	_	_	
+2-3	68-70	in	_	_	_	
+2-4	71-74	the	_	_	_	
+2-5	75-82	Bonhams	ORG	_	_	
+2-6	83-89	London	GPE	_	_	
+2-7	90-91	1	DATE[3]	_	_	
+2-8	92-95	May	DATE[3]	_	_	
+2-9	96-100	2008	DATE[3]	_	_	
+2-10	101-112	Antiquities	_	_	_	
+2-11	113-122	catalogue	_	_	_	
+2-12	123-126	was	_	_	_	
+2-13	127-136	described	_	_	_	
+2-14	137-139	as	_	_	_	
+2-15	140-141	‘	_	_	_	
+2-16	142-144	An	_	_	_	
+2-17	145-153	Egyptian	NORP	_	_	
+2-18	154-160	carved	WORK\_OF\_ART[4]	_	_	
+2-19	161-170	limestone	WORK\_OF\_ART[4]	_	_	
+2-20	171-177	relief	WORK\_OF\_ART[4]	_	_	
+2-21	178-186	fragment	WORK\_OF\_ART[4]	_	_	
+2-22	187-191	Late	DATE[5]	_	_	
+2-23	192-198	Period	DATE[5]	_	_	
+2-24	199-200	,	_	_	_	
+2-25	201-205	26th	DATE[6]	_	_	
+2-26	206-213	Dynasty	DATE[6]	_	_	
+2-27	214-215	,	_	_	_	
+2-28	216-221	circa	_	_	_	
+2-29	222-229	665–525	_	_	_	
+2-30	230-232	BC	_	_	_	
+2-31	233-234	’	_	_	_	
+2-32	235-236	.	_	_	_	
+
+#Text=The accompanying image showed the relief fragment housed in a polished wood presentation case .
+3-1	237-240	The	_	_	_	
+3-2	241-253	accompanying	_	_	_	
+3-3	254-259	image	_	_	_	
+3-4	260-266	showed	_	_	_	
+3-5	267-270	the	_	_	_	
+3-6	271-277	relief	_	_	_	
+3-7	278-286	fragment	_	_	_	
+3-8	287-293	housed	_	_	_	
+3-9	294-296	in	_	_	_	
+3-10	297-298	a	_	_	_	
+3-11	299-307	polished	_	_	_	
+3-12	308-312	wood	_	_	_	
+3-13	313-325	presentation	_	_	_	
+3-14	326-330	case	_	_	_	
+3-15	331-332	.	_	_	_	
+
+#Text=Its provenance was given as ‘ Property of an Australian private collector , who began collecting in the 1940s whilst in the merchant navy , he ceased collecting in the 1970s when he retired from the navy due to ill health , the objects passed thence by descent to his son ’ .
+4-1	333-336	Its	_	_	_	
+4-2	337-347	provenance	_	_	_	
+4-3	348-351	was	_	_	_	
+4-4	352-357	given	_	_	_	
+4-5	358-360	as	_	_	_	
+4-6	361-362	‘	_	_	_	
+4-7	363-371	Property	_	_	_	
+4-8	372-374	of	_	_	_	
+4-9	375-377	an	_	_	_	
+4-10	378-388	Australian	NORP	_	_	
+4-11	389-396	private	_	_	_	
+4-12	397-406	collector	_	_	_	
+4-13	407-408	,	_	_	_	
+4-14	409-412	who	_	_	_	
+4-15	413-418	began	_	_	_	
+4-16	419-429	collecting	_	_	_	
+4-17	430-432	in	_	_	_	
+4-18	433-436	the	DATE[7]	_	_	
+4-19	437-442	1940s	DATE[7]	_	_	
+4-20	443-449	whilst	_	_	_	
+4-21	450-452	in	_	_	_	
+4-22	453-456	the	_	_	_	
+4-23	457-465	merchant	_	_	_	
+4-24	466-470	navy	_	_	_	
+4-25	471-472	,	_	_	_	
+4-26	473-475	he	_	_	_	
+4-27	476-482	ceased	_	_	_	
+4-28	483-493	collecting	_	_	_	
+4-29	494-496	in	_	_	_	
+4-30	497-500	the	DATE[8]	_	_	
+4-31	501-506	1970s	DATE[8]	_	_	
+4-32	507-511	when	_	_	_	
+4-33	512-514	he	_	_	_	
+4-34	515-522	retired	_	_	_	
+4-35	523-527	from	_	_	_	
+4-36	528-531	the	_	_	_	
+4-37	532-536	navy	_	_	_	
+4-38	537-540	due	_	_	_	
+4-39	541-543	to	_	_	_	
+4-40	544-547	ill	_	_	_	
+4-41	548-554	health	_	_	_	
+4-42	555-556	,	_	_	_	
+4-43	557-560	the	_	_	_	
+4-44	561-568	objects	_	_	_	
+4-45	569-575	passed	_	_	_	
+4-46	576-582	thence	_	_	_	
+4-47	583-585	by	_	_	_	
+4-48	586-593	descent	_	_	_	
+4-49	594-596	to	_	_	_	
+4-50	597-600	his	_	_	_	
+4-51	601-604	son	_	_	_	
+4-52	605-606	’	_	_	_	
+4-53	607-608	.	_	_	_	
+
+#Text=The catalogue entry also presented a partial translation of the inscription .
+5-1	609-612	The	_	_	_	
+5-2	613-622	catalogue	_	_	_	
+5-3	623-628	entry	_	_	_	
+5-4	629-633	also	_	_	_	
+5-5	634-643	presented	_	_	_	
+5-6	644-645	a	_	_	_	
+5-7	646-653	partial	_	_	_	
+5-8	654-665	translation	_	_	_	
+5-9	666-668	of	_	_	_	
+5-10	669-672	the	_	_	_	
+5-11	673-684	inscription	_	_	_	
+5-12	685-686	.	_	_	_	
+
+#Text=The relief fragment was recognized by a curator at the Metropolitan Museum of Art as belonging to the 26th Dynasty Tomb of Mutirdis at Thebes , which had been discovered in 1969 and restored between 1973 and 1974 .
+6-1	687-690	The	_	_	_	
+6-2	691-697	relief	_	_	_	
+6-3	698-706	fragment	_	_	_	
+6-4	707-710	was	_	_	_	
+6-5	711-721	recognized	_	_	_	
+6-6	722-724	by	_	_	_	
+6-7	725-726	a	_	_	_	
+6-8	727-734	curator	_	_	_	
+6-9	735-737	at	_	_	_	
+6-10	738-741	the	FAC[9]	_	_	
+6-11	742-754	Metropolitan	FAC[9]	_	_	
+6-12	755-761	Museum	FAC[9]	_	_	
+6-13	762-764	of	FAC[9]	_	_	
+6-14	765-768	Art	FAC[9]	_	_	
+6-15	769-771	as	_	_	_	
+6-16	772-781	belonging	_	_	_	
+6-17	782-784	to	_	_	_	
+6-18	785-788	the	_	_	_	
+6-19	789-793	26th	ORDINAL	_	_	
+6-20	794-801	Dynasty	WORK\_OF\_ART[10]	_	_	
+6-21	802-806	Tomb	WORK\_OF\_ART[10]	_	_	
+6-22	807-809	of	WORK\_OF\_ART[10]	_	_	
+6-23	810-818	Mutirdis	WORK\_OF\_ART[10]	_	_	
+6-24	819-821	at	_	_	_	
+6-25	822-828	Thebes	GPE	_	_	
+6-26	829-830	,	_	_	_	
+6-27	831-836	which	_	_	_	
+6-28	837-840	had	_	_	_	
+6-29	841-845	been	_	_	_	
+6-30	846-856	discovered	_	_	_	
+6-31	857-859	in	_	_	_	
+6-32	860-864	1969	DATE	_	_	
+6-33	865-868	and	_	_	_	
+6-34	869-877	restored	_	_	_	
+6-35	878-885	between	DATE[11]	_	_	
+6-36	886-890	1973	DATE[11]	_	_	
+6-37	891-894	and	DATE[11]	_	_	
+6-38	895-899	1974	DATE[11]	_	_	
+6-39	900-901	.	_	_	_	
+
+#Text=The tomb reliefs had been photographed in situ and published in 1977 .
+7-1	902-905	The	_	_	_	
+7-2	906-910	tomb	_	_	_	
+7-3	911-918	reliefs	_	_	_	
+7-4	919-922	had	_	_	_	
+7-5	923-927	been	_	_	_	
+7-6	928-940	photographed	_	_	_	
+7-7	941-943	in	_	_	_	
+7-8	944-948	situ	_	_	_	
+7-9	949-952	and	_	_	_	
+7-10	953-962	published	_	_	_	
+7-11	963-965	in	_	_	_	
+7-12	966-970	1977	DATE	_	_	
+7-13	971-972	.	_	_	_	
+
+#Text=Upon being notified of that fact by Egypt ’ s Supreme Council of Antiquities , Bonhams withdrew the piece from sale and arranged for its return to Egypt in 2008 .
+8-1	973-977	Upon	_	_	_	
+8-2	978-983	being	_	_	_	
+8-3	984-992	notified	_	_	_	
+8-4	993-995	of	_	_	_	
+8-5	996-1000	that	_	_	_	
+8-6	1001-1005	fact	_	_	_	
+8-7	1006-1008	by	_	_	_	
+8-8	1009-1014	Egypt	GPE	returned\_to	6-20[10_0]	
+8-9	1015-1016	’	_	_	_	
+8-10	1017-1018	s	_	_	_	
+8-11	1019-1026	Supreme	ORG[12]	_	_	
+8-12	1027-1034	Council	ORG[12]	_	_	
+8-13	1035-1037	of	ORG[12]	_	_	
+8-14	1038-1049	Antiquities	ORG[12]	_	_	
+8-15	1050-1051	,	_	_	_	
+8-16	1052-1059	Bonhams	ORG	_	_	
+8-17	1060-1068	withdrew	_	_	_	
+8-18	1069-1072	the	_	_	_	
+8-19	1073-1078	piece	_	_	_	
+8-20	1079-1083	from	_	_	_	
+8-21	1084-1088	sale	_	_	_	
+8-22	1089-1092	and	_	_	_	
+8-23	1093-1101	arranged	_	_	_	
+8-24	1102-1105	for	_	_	_	
+8-25	1106-1109	its	_	_	_	
+8-26	1110-1116	return	_	_	_	
+8-27	1117-1119	to	_	_	_	
+8-28	1120-1125	Egypt	GPE	_	_	
+8-29	1126-1128	in	_	_	_	
+8-30	1129-1133	2008	DATE	_	_	
+8-31	1134-1135	.	_	_	_	
+
+#Text=Other fragments of relief stolen from the same tomb are still missing ( SCA nd ) .
+9-1	1136-1141	Other	_	_	_	
+9-2	1142-1151	fragments	_	_	_	
+9-3	1152-1154	of	_	_	_	
+9-4	1155-1161	relief	_	_	_	
+9-5	1162-1168	stolen	_	_	_	
+9-6	1169-1173	from	_	_	_	
+9-7	1174-1177	the	_	_	_	
+9-8	1178-1182	same	_	_	_	
+9-9	1183-1187	tomb	_	_	_	
+9-10	1188-1191	are	_	_	_	
+9-11	1192-1197	still	_	_	_	
+9-12	1198-1205	missing	_	_	_	
+9-13	1206-1207	(	_	_	_	
+9-14	1208-1211	SCA	_	_	_	
+9-15	1212-1214	nd	_	_	_	
+9-16	1215-1216	)	_	_	_	
+9-17	1217-1218	.	_	_	_	
+
+#Text=( Image from the Supreme Council of Antiquities )
+10-1	1219-1220	(	_	_	_	
+10-2	1221-1226	Image	_	_	_	
+10-3	1227-1231	from	_	_	_	
+10-4	1232-1235	the	ORG[13]	_	_	
+10-5	1236-1243	Supreme	ORG[13]	_	_	
+10-6	1244-1251	Council	ORG[13]	_	_	
+10-7	1252-1254	of	ORG[13]	_	_	
+10-8	1255-1266	Antiquities	ORG[13]	_	_	
+10-9	1267-1268	)	_	_	_	

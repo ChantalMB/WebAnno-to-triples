@@ -1,0 +1,187 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.StanzaNER|value
+#T_RL=webanno.custom.Relationships|Relationship|BT_webanno.custom.StanzaNER
+
+
+#Text=Collection of José Luis Várez Fisa donated to the National Archaeological Museum of Spain in 1999 .
+1-1	0-10	Collection	_	_	_	
+1-2	11-13	of	_	_	_	
+1-3	14-18	José	PERSON[1]	_	_	
+1-4	19-23	Luis	PERSON[1]	_	_	
+1-5	24-29	Várez	PERSON[1]	_	_	
+1-6	30-34	Fisa	PERSON[1]	_	_	
+1-7	35-42	donated	_	_	_	
+1-8	43-45	to	_	_	_	
+1-9	46-49	the	FAC[2]	donated\_to	1-3[1_2]	
+1-10	50-58	National	FAC[2]	_	_	
+1-11	59-73	Archaeological	FAC[2]	_	_	
+1-12	74-80	Museum	FAC[2]	_	_	
+1-13	81-83	of	FAC[2]	_	_	
+1-14	84-89	Spain	FAC[2]	_	_	
+1-15	90-92	in	_	_	_	
+1-16	93-97	1999	DATE	in	1-3[1_0]	
+1-17	98-99	.	_	_	_	
+
+#Text=In 1999 , the National Archaeological Museum of Spain in Madrid bought 181 ancient artefacts from collector José Luis Várez Fisa for a reported $ 12 million USD .
+2-1	100-102	In	_	_	_	
+2-2	103-107	1999	DATE	in	2-4[3_0]	
+2-3	108-109	,	_	_	_	
+2-4	110-113	the	FAC[3]	_	_	
+2-5	114-122	National	FAC[3]	_	_	
+2-6	123-137	Archaeological	FAC[3]	_	_	
+2-7	138-144	Museum	FAC[3]	_	_	
+2-8	145-147	of	FAC[3]	_	_	
+2-9	148-153	Spain	FAC[3]	_	_	
+2-10	154-156	in	_	_	_	
+2-11	157-163	Madrid	GPE	located\_in	2-4[3_0]	
+2-12	164-170	bought	_	_	_	
+2-13	171-174	181	CARDINAL	_	_	
+2-14	175-182	ancient	_	_	_	
+2-15	183-192	artefacts	_	_	_	
+2-16	193-197	from	_	_	_	
+2-17	198-207	collector	_	_	_	
+2-18	208-212	José	PERSON[4]	bought\_from	2-4[3_4]	
+2-19	213-217	Luis	PERSON[4]	_	_	
+2-20	218-223	Várez	PERSON[4]	_	_	
+2-21	224-228	Fisa	PERSON[4]	_	_	
+2-22	229-232	for	_	_	_	
+2-23	233-234	a	_	_	_	
+2-24	235-243	reported	_	_	_	
+2-25	244-245	$	MONEY[5]	_	_	
+2-26	246-248	12	MONEY[5]	_	_	
+2-27	249-256	million	MONEY[5]	_	_	
+2-28	257-260	USD	MONEY[5]	_	_	
+2-29	261-262	.	_	_	_	
+
+#Text=Many of the artefacts , which are from the cultures of ancient Egypt , Italy , Greece and Spain , were placed on exhibition in 2003 .
+3-1	263-267	Many	_	_	_	
+3-2	268-270	of	_	_	_	
+3-3	271-274	the	_	_	_	
+3-4	275-284	artefacts	_	_	_	
+3-5	285-286	,	_	_	_	
+3-6	287-292	which	_	_	_	
+3-7	293-296	are	_	_	_	
+3-8	297-301	from	_	_	_	
+3-9	302-305	the	_	_	_	
+3-10	306-314	cultures	_	_	_	
+3-11	315-317	of	_	_	_	
+3-12	318-325	ancient	_	_	_	
+3-13	326-331	Egypt	GPE	_	_	
+3-14	332-333	,	_	_	_	
+3-15	334-339	Italy	GPE	_	_	
+3-16	340-341	,	_	_	_	
+3-17	342-348	Greece	GPE	_	_	
+3-18	349-352	and	_	_	_	
+3-19	353-358	Spain	GPE	_	_	
+3-20	359-360	,	_	_	_	
+3-21	361-365	were	_	_	_	
+3-22	366-372	placed	_	_	_	
+3-23	373-375	on	_	_	_	
+3-24	376-386	exhibition	_	_	_	
+3-25	387-389	in	_	_	_	
+3-26	390-394	2003	DATE	_	_	
+3-27	395-396	.	_	_	_	
+
+#Text=In 2006 Italian researchers recognized twenty-two pieces in the catalogue of the exhibition , which appeared in photographs that were seized during raids on the premises of Italian dealers Giacomo Medici and Gianfranco Becchina .
+4-1	397-399	In	_	_	_	
+4-2	400-404	2006	DATE	_	_	
+4-3	405-412	Italian	NORP	_	_	
+4-4	413-424	researchers	_	_	_	
+4-5	425-435	recognized	_	_	_	
+4-6	436-446	twenty-two	CARDINAL	_	_	
+4-7	447-453	pieces	_	_	_	
+4-8	454-456	in	_	_	_	
+4-9	457-460	the	_	_	_	
+4-10	461-470	catalogue	_	_	_	
+4-11	471-473	of	_	_	_	
+4-12	474-477	the	_	_	_	
+4-13	478-488	exhibition	_	_	_	
+4-14	489-490	,	_	_	_	
+4-15	491-496	which	_	_	_	
+4-16	497-505	appeared	_	_	_	
+4-17	506-508	in	_	_	_	
+4-18	509-520	photographs	_	_	_	
+4-19	521-525	that	_	_	_	
+4-20	526-530	were	_	_	_	
+4-21	531-537	seized	_	_	_	
+4-22	538-544	during	_	_	_	
+4-23	545-550	raids	_	_	_	
+4-24	551-553	on	_	_	_	
+4-25	554-557	the	_	_	_	
+4-26	558-566	premises	_	_	_	
+4-27	567-569	of	_	_	_	
+4-28	570-577	Italian	NORP	_	_	
+4-29	578-585	dealers	_	_	_	
+4-30	586-593	Giacomo	PERSON[6]	_	_	
+4-31	594-600	Medici	PERSON[6]	_	_	
+4-32	601-604	and	_	_	_	
+4-33	605-615	Gianfranco	PERSON[7]	worked\_with	4-30[6_7]	
+4-34	616-624	Becchina	PERSON[7]	_	_	
+4-35	625-626	.	_	_	_	
+
+#Text=There was no evidence to suggest that Várez Fisa had dealt with either Medici or Becchina directly .
+5-1	627-632	There	_	_	_	
+5-2	633-636	was	_	_	_	
+5-3	637-639	no	_	_	_	
+5-4	640-648	evidence	_	_	_	
+5-5	649-651	to	_	_	_	
+5-6	652-659	suggest	_	_	_	
+5-7	660-664	that	_	_	_	
+5-8	665-670	Várez	PERSON[8]	_	_	
+5-9	671-675	Fisa	PERSON[8]	_	_	
+5-10	676-679	had	_	_	_	
+5-11	680-685	dealt	_	_	_	
+5-12	686-690	with	_	_	_	
+5-13	691-697	either	_	_	_	
+5-14	698-704	Medici	PERSON	alias	4-30[6_0]	
+5-15	705-707	or	_	_	_	
+5-16	708-716	Becchina	PERSON	worked\_with|alias	5-14|4-33[7_0]	
+5-17	717-725	directly	_	_	_	
+5-18	726-727	.	_	_	_	
+
+#Text=He had purchased some of the artefacts in question at Sotheby ’ s New York , and others from US dealer Jerome Eisenberg .
+6-1	728-730	He	_	_	_	
+6-2	731-734	had	_	_	_	
+6-3	735-744	purchased	_	_	_	
+6-4	745-749	some	_	_	_	
+6-5	750-752	of	_	_	_	
+6-6	753-756	the	_	_	_	
+6-7	757-766	artefacts	_	_	_	
+6-8	767-769	in	_	_	_	
+6-9	770-778	question	_	_	_	
+6-10	779-781	at	_	_	_	
+6-11	782-789	Sotheby	ORG[9]	bought\_from	5-8[8_9]	
+6-12	790-791	’	ORG[9]	_	_	
+6-13	792-793	s	ORG[9]	_	_	
+6-14	794-797	New	GPE[10]	located\_in	6-11[9_10]	
+6-15	798-802	York	GPE[10]	_	_	
+6-16	803-804	,	_	_	_	
+6-17	805-808	and	_	_	_	
+6-18	809-815	others	_	_	_	
+6-19	816-820	from	_	_	_	
+6-20	821-823	US	GPE	_	_	
+6-21	824-830	dealer	_	_	_	
+6-22	831-837	Jerome	PERSON[11]	bought\_from|home of	5-8[8_11]|6-20[0_11]	
+6-23	838-847	Eisenberg	PERSON[11]	_	_	
+6-24	848-849	.	_	_	_	
+
+#Text=Eisenberg , in turn , has stated that he bought most of the artefacts at auction in London .
+7-1	850-859	Eisenberg	ORG	alias	6-22[11_0]	
+7-2	860-861	,	_	_	_	
+7-3	862-864	in	_	_	_	
+7-4	865-869	turn	_	_	_	
+7-5	870-871	,	_	_	_	
+7-6	872-875	has	_	_	_	
+7-7	876-882	stated	_	_	_	
+7-8	883-887	that	_	_	_	
+7-9	888-890	he	_	_	_	
+7-10	891-897	bought	_	_	_	
+7-11	898-902	most	_	_	_	
+7-12	903-905	of	_	_	_	
+7-13	906-909	the	_	_	_	
+7-14	910-919	artefacts	_	_	_	
+7-15	920-922	at	_	_	_	
+7-16	923-930	auction	_	_	_	
+7-17	931-933	in	_	_	_	
+7-18	934-940	London	GPE	bought\_from	7-1	
+7-19	941-942	.	_	_	_	

@@ -1,0 +1,3561 @@
+{
+  "name" : "trafficking-culture-annotations",
+  "slug" : null,
+  "description" : "We're annotating articles from the Trafficking Culture Encyclopedia to create a model for natural language entity extraction related to the antiquities trade. see [Trafficking Culture](https://traffickingculture.org/encyclopedia/).",
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "1-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1651605427748,
+    "created" : 1638947059560,
+    "updated" : 1651605427748
+  }, {
+    "name" : "10-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113373467,
+    "created" : 1638947059952,
+    "updated" : 1645114530656
+  }, {
+    "name" : "100-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062250,
+    "updated" : 1641572537180
+  }, {
+    "name" : "101-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062291,
+    "updated" : 1643918295964
+  }, {
+    "name" : "102-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062312,
+    "updated" : 1643918800396
+  }, {
+    "name" : "103-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062343,
+    "updated" : 1643919653009
+  }, {
+    "name" : "104-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062360,
+    "updated" : 1643920515190
+  }, {
+    "name" : "105-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113393712,
+    "created" : 1638947062378,
+    "updated" : 1645114532189
+  }, {
+    "name" : "106-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113427684,
+    "created" : 1638947062400,
+    "updated" : 1645114532864
+  }, {
+    "name" : "107-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113447240,
+    "created" : 1638947062455,
+    "updated" : 1645114533541
+  }, {
+    "name" : "108-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113898134,
+    "created" : 1638947062480,
+    "updated" : 1645114535225
+  }, {
+    "name" : "109-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1651605470500,
+    "created" : 1638947062501,
+    "updated" : 1651605470500
+  }, {
+    "name" : "11-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059980,
+    "updated" : 1644292364097
+  }, {
+    "name" : "110-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062527,
+    "updated" : 1644292576738
+  }, {
+    "name" : "111-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062541,
+    "updated" : 1644634755516
+  }, {
+    "name" : "112-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062562,
+    "updated" : 1644635943022
+  }, {
+    "name" : "113-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062615,
+    "updated" : 1643125790588
+  }, {
+    "name" : "114-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062632,
+    "updated" : 1644695184122
+  }, {
+    "name" : "115-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062646,
+    "updated" : 1644695429338
+  }, {
+    "name" : "116-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062663,
+    "updated" : 1644696362888
+  }, {
+    "name" : "117-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062683,
+    "updated" : 1644716965186
+  }, {
+    "name" : "118-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062702,
+    "updated" : 1644717452161
+  }, {
+    "name" : "119-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062723,
+    "updated" : 1644718105977
+  }, {
+    "name" : "12-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113508357,
+    "created" : 1638947060003,
+    "updated" : 1645114540341
+  }, {
+    "name" : "120-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062740,
+    "updated" : 1644800168353
+  }, {
+    "name" : "121-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062756,
+    "updated" : 1644800334042
+  }, {
+    "name" : "122-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062772,
+    "updated" : 1644806551555
+  }, {
+    "name" : "123-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062789,
+    "updated" : 1644857939919
+  }, {
+    "name" : "124-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062802,
+    "updated" : 1644858240237
+  }, {
+    "name" : "125-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062821,
+    "updated" : 1644958732854
+  }, {
+    "name" : "126-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062838,
+    "updated" : 1644959763960
+  }, {
+    "name" : "127-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062863,
+    "updated" : 1644961319546
+  }, {
+    "name" : "128-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062903,
+    "updated" : 1645051718442
+  }, {
+    "name" : "129-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062921,
+    "updated" : 1645057472993
+  }, {
+    "name" : "13-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060035,
+    "updated" : 1644931479321
+  }, {
+    "name" : "14-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060058,
+    "updated" : 1644932846203
+  }, {
+    "name" : "15-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060088,
+    "updated" : 1644933677185
+  }, {
+    "name" : "16-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060148,
+    "updated" : 1644934344151
+  }, {
+    "name" : "17-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060197,
+    "updated" : 1644936632566
+  }, {
+    "name" : "18-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060219,
+    "updated" : 1644936835138
+  }, {
+    "name" : "19-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060259,
+    "updated" : 1644936868970
+  }, {
+    "name" : "2-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113530157,
+    "created" : 1638947059629,
+    "updated" : 1645114544202
+  }, {
+    "name" : "20-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060304,
+    "updated" : 1645211415824
+  }, {
+    "name" : "21-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060337,
+    "updated" : 1645236816529
+  }, {
+    "name" : "22-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060357,
+    "updated" : 1645237033165
+  }, {
+    "name" : "23-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060381,
+    "updated" : 1645323650139
+  }, {
+    "name" : "24-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060404,
+    "updated" : 1645483197643
+  }, {
+    "name" : "25-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060426,
+    "updated" : 1645484187351
+  }, {
+    "name" : "26-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060451,
+    "updated" : 1645484517166
+  }, {
+    "name" : "27-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060485,
+    "updated" : 1645484983334
+  }, {
+    "name" : "28-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060517,
+    "updated" : 1645540993413
+  }, {
+    "name" : "29-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060541,
+    "updated" : 1645541397013
+  }, {
+    "name" : "3-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113548239,
+    "created" : 1638947059660,
+    "updated" : 1645114569668
+  }, {
+    "name" : "30-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060618,
+    "updated" : 1645541680658
+  }, {
+    "name" : "31-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060650,
+    "updated" : 1645542400500
+  }, {
+    "name" : "32-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060683,
+    "updated" : 1645544178646
+  }, {
+    "name" : "33-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060705,
+    "updated" : 1647982571990
+  }, {
+    "name" : "34-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060725,
+    "updated" : 1648151112939
+  }, {
+    "name" : "35-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060753,
+    "updated" : 1648151788330
+  }, {
+    "name" : "36-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060773,
+    "updated" : 1648152318210
+  }, {
+    "name" : "37-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060802,
+    "updated" : 1648152791968
+  }, {
+    "name" : "38-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060821,
+    "updated" : 1648249309994
+  }, {
+    "name" : "39-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060840,
+    "updated" : 1648249674531
+  }, {
+    "name" : "4-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059711,
+    "updated" : 1643313860050
+  }, {
+    "name" : "40-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060892,
+    "updated" : 1648946155840
+  }, {
+    "name" : "41-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060912,
+    "updated" : 1649464046082
+  }, {
+    "name" : "42-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060933,
+    "updated" : 1649465014641
+  }, {
+    "name" : "43-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947060963,
+    "updated" : 1649535018178
+  }, {
+    "name" : "44-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947060983,
+    "updated" : 1638947060983
+  }, {
+    "name" : "45-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061015,
+    "updated" : 1638947061015
+  }, {
+    "name" : "46-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061034,
+    "updated" : 1638947061034
+  }, {
+    "name" : "47-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061057,
+    "updated" : 1638947061057
+  }, {
+    "name" : "48-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061073,
+    "updated" : 1638947061073
+  }, {
+    "name" : "49-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061097,
+    "updated" : 1638947061097
+  }, {
+    "name" : "5-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059740,
+    "updated" : 1643835053846
+  }, {
+    "name" : "50-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061117,
+    "updated" : 1638947061117
+  }, {
+    "name" : "51-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061136,
+    "updated" : 1638947061136
+  }, {
+    "name" : "52-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061167,
+    "updated" : 1638947061167
+  }, {
+    "name" : "53-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061197,
+    "updated" : 1638947061197
+  }, {
+    "name" : "54-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061220,
+    "updated" : 1638947061220
+  }, {
+    "name" : "55-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061241,
+    "updated" : 1638947061241
+  }, {
+    "name" : "56-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061268,
+    "updated" : 1638947061268
+  }, {
+    "name" : "57-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061288,
+    "updated" : 1638947061288
+  }, {
+    "name" : "58-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061309,
+    "updated" : 1638947061309
+  }, {
+    "name" : "59-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061335,
+    "updated" : 1638947061335
+  }, {
+    "name" : "6-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059825,
+    "updated" : 1643908083529
+  }, {
+    "name" : "60-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061355,
+    "updated" : 1638947061355
+  }, {
+    "name" : "61-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061380,
+    "updated" : 1638947061380
+  }, {
+    "name" : "62-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061397,
+    "updated" : 1638947061397
+  }, {
+    "name" : "63-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061428,
+    "updated" : 1638947061428
+  }, {
+    "name" : "64-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061451,
+    "updated" : 1638947061451
+  }, {
+    "name" : "65-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061468,
+    "updated" : 1638947061468
+  }, {
+    "name" : "66-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061492,
+    "updated" : 1638947061492
+  }, {
+    "name" : "67-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947061523,
+    "updated" : 1644608892936
+  }, {
+    "name" : "68-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947061569,
+    "updated" : 1644608892441
+  }, {
+    "name" : "69-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947061592,
+    "updated" : 1644608891791
+  }, {
+    "name" : "7-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059848,
+    "updated" : 1643908237872
+  }, {
+    "name" : "70-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113582878,
+    "created" : 1638947061610,
+    "updated" : 1645113582879
+  }, {
+    "name" : "71-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947061639,
+    "updated" : 1643909198091
+  }, {
+    "name" : "72-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947061657,
+    "updated" : 1643909554802
+  }, {
+    "name" : "73-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061675,
+    "updated" : 1638947061675
+  }, {
+    "name" : "74-anno.xmi",
+    "format" : "xmi",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1645113595671,
+    "created" : 1638947061698,
+    "updated" : 1645113595671
+  }, {
+    "name" : "75-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061721,
+    "updated" : 1638947061721
+  }, {
+    "name" : "76-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061760,
+    "updated" : 1638947061760
+  }, {
+    "name" : "77-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061796,
+    "updated" : 1638947061796
+  }, {
+    "name" : "78-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061814,
+    "updated" : 1638947061814
+  }, {
+    "name" : "79-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061833,
+    "updated" : 1638947061833
+  }, {
+    "name" : "8-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059899,
+    "updated" : 1644878276855
+  }, {
+    "name" : "80-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061847,
+    "updated" : 1638947061847
+  }, {
+    "name" : "81-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061871,
+    "updated" : 1638947061871
+  }, {
+    "name" : "82-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061893,
+    "updated" : 1638947061893
+  }, {
+    "name" : "83-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061915,
+    "updated" : 1638947061915
+  }, {
+    "name" : "84-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061929,
+    "updated" : 1638947061929
+  }, {
+    "name" : "85-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061944,
+    "updated" : 1638947061944
+  }, {
+    "name" : "86-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061959,
+    "updated" : 1638947061959
+  }, {
+    "name" : "87-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061980,
+    "updated" : 1638947061980
+  }, {
+    "name" : "88-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947061998,
+    "updated" : 1638947061998
+  }, {
+    "name" : "89-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062017,
+    "updated" : 1638947062017
+  }, {
+    "name" : "9-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947059929,
+    "updated" : 1644883420634
+  }, {
+    "name" : "90-anno.xmi",
+    "format" : "xmi",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1638947062043,
+    "updated" : 1643056805509
+  }, {
+    "name" : "91-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062060,
+    "updated" : 1638947062060
+  }, {
+    "name" : "92-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062077,
+    "updated" : 1638947062077
+  }, {
+    "name" : "93-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062106,
+    "updated" : 1638947062106
+  }, {
+    "name" : "94-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062130,
+    "updated" : 1638947062130
+  }, {
+    "name" : "95-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062149,
+    "updated" : 1638947062149
+  }, {
+    "name" : "96-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062171,
+    "updated" : 1638947062171
+  }, {
+    "name" : "97-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062190,
+    "updated" : 1638947062190
+  }, {
+    "name" : "98-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062213,
+    "updated" : 1638947062213
+  }, {
+    "name" : "99-anno.xmi",
+    "format" : "xmi",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1638947062229,
+    "updated" : 1638947062229
+  } ],
+  "annotation_documents" : [ {
+    "name" : "1-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1643833544276,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1638988239139,
+    "updated" : 1645112121772
+  }, {
+    "name" : "105-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1638988458834,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1638988458778,
+    "updated" : 1645112280800
+  }, {
+    "name" : "106-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1638988493635,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1638988493590,
+    "updated" : 1645112281927
+  }, {
+    "name" : "107-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1638988508860,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1638988508805,
+    "updated" : 1645112284356
+  }, {
+    "name" : "108-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1638988510609,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1638988510559,
+    "updated" : 1645112285411
+  }, {
+    "name" : "109-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1638988511954,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1638988511904,
+    "updated" : 1645112287707
+  }, {
+    "name" : "1-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1643417452221,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1641572044227,
+    "updated" : 1645112120080
+  }, {
+    "name" : "74-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1641572228518,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1641572228472,
+    "updated" : 1645112383597
+  }, {
+    "name" : "2-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1641572287086,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1641572287047,
+    "updated" : 1645112359603
+  }, {
+    "name" : "100-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644107710172,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1641572537118,
+    "updated" : 1644107710172
+  }, {
+    "name" : "1-anno.xmi",
+    "user" : "student",
+    "state" : "FINISHED",
+    "timestamp" : 1643042361964,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643040614217,
+    "updated" : 1645112124786
+  }, {
+    "name" : "90-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643056829942,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643056805460,
+    "updated" : 1643056829942
+  }, {
+    "name" : "113-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643125790582,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643125790497,
+    "updated" : 1643125790582
+  }, {
+    "name" : "74-anno.xmi",
+    "user" : "Callum",
+    "state" : "FINISHED",
+    "timestamp" : 1643126005637,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643125804222,
+    "updated" : 1645112382906
+  }, {
+    "name" : "1-anno.xmi",
+    "user" : "Callum",
+    "state" : "FINISHED",
+    "timestamp" : 1643134946364,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643126312719,
+    "updated" : 1645112117811
+  }, {
+    "name" : "2-anno.xmi",
+    "user" : "Callum",
+    "state" : "FINISHED",
+    "timestamp" : 1643312702363,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643312266194,
+    "updated" : 1645112358925
+  }, {
+    "name" : "3-anno.xmi",
+    "user" : "Callum",
+    "state" : "FINISHED",
+    "timestamp" : 1643313848063,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643312733153,
+    "updated" : 1645112368094
+  }, {
+    "name" : "4-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643314284088,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643313860011,
+    "updated" : 1643314284088
+  }, {
+    "name" : "3-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1643417572279,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643416427124,
+    "updated" : 1645112368884
+  }, {
+    "name" : "2-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1643834289631,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643834289569,
+    "updated" : 1645112360471
+  }, {
+    "name" : "3-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1643834720377,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643834343778,
+    "updated" : 1645112370089
+  }, {
+    "name" : "4-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643835031570,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643834780595,
+    "updated" : 1643835031570
+  }, {
+    "name" : "5-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643835053840,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643835053792,
+    "updated" : 1643835053840
+  }, {
+    "name" : "6-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643908202436,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643908083467,
+    "updated" : 1643908202436
+  }, {
+    "name" : "7-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643908771325,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643908237824,
+    "updated" : 1643908771325
+  }, {
+    "name" : "70-anno.xmi",
+    "user" : "admin",
+    "state" : "FINISHED",
+    "timestamp" : 1643909162016,
+    "annotatorState" : "FINISHED",
+    "sentence_accessed" : 0,
+    "created" : 1643908802877,
+    "updated" : 1645112244294
+  }, {
+    "name" : "71-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643909484114,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643909198037,
+    "updated" : 1643909484114
+  }, {
+    "name" : "72-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643909554792,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643909554756,
+    "updated" : 1643909554793
+  }, {
+    "name" : "10-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644107641831,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643912590238,
+    "updated" : 1645112277803
+  }, {
+    "name" : "101-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644107760946,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643918295921,
+    "updated" : 1644107760946
+  }, {
+    "name" : "102-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1643919380457,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643918800337,
+    "updated" : 1643919380457
+  }, {
+    "name" : "103-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644107834360,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643919652970,
+    "updated" : 1644107834360
+  }, {
+    "name" : "104-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644107881794,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643920515147,
+    "updated" : 1644107881794
+  }, {
+    "name" : "105-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644107935212,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1643923466190,
+    "updated" : 1645112279222
+  }, {
+    "name" : "106-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644109228599,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644108733330,
+    "updated" : 1645112282753
+  }, {
+    "name" : "107-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644110783826,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644109253528,
+    "updated" : 1645112283544
+  }, {
+    "name" : "108-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644291779159,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644291450615,
+    "updated" : 1645112286177
+  }, {
+    "name" : "109-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644292349785,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644291790274,
+    "updated" : 1645112286926
+  }, {
+    "name" : "11-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644292570031,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644292364053,
+    "updated" : 1644292570031
+  }, {
+    "name" : "110-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644292770343,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644292576700,
+    "updated" : 1644292770343
+  }, {
+    "name" : "69-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644608891761,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644608891670,
+    "updated" : 1644608891764
+  }, {
+    "name" : "68-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644608892425,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644608892323,
+    "updated" : 1644608892426
+  }, {
+    "name" : "67-anno.xmi",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644608892924,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644608892858,
+    "updated" : 1644608892925
+  }, {
+    "name" : "111-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644635931523,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644634755427,
+    "updated" : 1644635931523
+  }, {
+    "name" : "112-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644636807154,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644635942959,
+    "updated" : 1644636807154
+  }, {
+    "name" : "113-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644693291491,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644692915037,
+    "updated" : 1644693291491
+  }, {
+    "name" : "114-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644695415465,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644695184072,
+    "updated" : 1644695415465
+  }, {
+    "name" : "115-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644695926050,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644695429287,
+    "updated" : 1644695926050
+  }, {
+    "name" : "116-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644697361055,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644696362832,
+    "updated" : 1644697361055
+  }, {
+    "name" : "117-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644717439792,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644716965090,
+    "updated" : 1644717439792
+  }, {
+    "name" : "118-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644718079631,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644717452091,
+    "updated" : 1644718079631
+  }, {
+    "name" : "119-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644718739712,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644718105931,
+    "updated" : 1644718739713
+  }, {
+    "name" : "12-anno.xmi",
+    "user" : "Jonah",
+    "state" : "FINISHED",
+    "timestamp" : 1644800146833,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644799643743,
+    "updated" : 1645112354276
+  }, {
+    "name" : "120-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644800326500,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644800168307,
+    "updated" : 1644800326500
+  }, {
+    "name" : "121-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644800861889,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644800333998,
+    "updated" : 1644800861889
+  }, {
+    "name" : "122-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644807010213,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644806551503,
+    "updated" : 1644807010214
+  }, {
+    "name" : "123-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644858202213,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644857939872,
+    "updated" : 1644858202214
+  }, {
+    "name" : "124-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644859172427,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644858240192,
+    "updated" : 1644859172427
+  }, {
+    "name" : "5-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644875644096,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644874303075,
+    "updated" : 1644875644096
+  }, {
+    "name" : "6-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644875881637,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644875681623,
+    "updated" : 1644875881637
+  }, {
+    "name" : "7-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644878132789,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644875897690,
+    "updated" : 1644878132789
+  }, {
+    "name" : "8-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644883379353,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644878276810,
+    "updated" : 1644883379353
+  }, {
+    "name" : "9-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644883858449,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644883420593,
+    "updated" : 1644883858449
+  }, {
+    "name" : "10-anno.xmi",
+    "user" : "Callum",
+    "state" : "FINISHED",
+    "timestamp" : 1644884885416,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644883881369,
+    "updated" : 1645112276305
+  }, {
+    "name" : "11-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644926137275,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644926057798,
+    "updated" : 1644926137275
+  }, {
+    "name" : "12-anno.xmi",
+    "user" : "Callum",
+    "state" : "FINISHED",
+    "timestamp" : 1644931465197,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644926188941,
+    "updated" : 1645112352674
+  }, {
+    "name" : "13-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644931829283,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644931479273,
+    "updated" : 1644931829283
+  }, {
+    "name" : "14-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644933659071,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644932846014,
+    "updated" : 1644933659071
+  }, {
+    "name" : "15-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644934297056,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644933677143,
+    "updated" : 1644934297056
+  }, {
+    "name" : "16-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644936613378,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644934344106,
+    "updated" : 1644936613379
+  }, {
+    "name" : "17-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644936806420,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644936632524,
+    "updated" : 1644936806420
+  }, {
+    "name" : "18-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644937760651,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644936835089,
+    "updated" : 1644937760651
+  }, {
+    "name" : "19-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644938738549,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644936868911,
+    "updated" : 1644938738549
+  }, {
+    "name" : "125-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644959523629,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644958732809,
+    "updated" : 1644959523629
+  }, {
+    "name" : "126-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644960518521,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644959763915,
+    "updated" : 1644960518521
+  }, {
+    "name" : "127-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1644962474486,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644961319498,
+    "updated" : 1644962474486
+  }, {
+    "name" : "1-anno.xmi",
+    "user" : "chantal",
+    "state" : "FINISHED",
+    "timestamp" : 1644963133381,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1644963133334,
+    "updated" : 1645112123011
+  }, {
+    "name" : "100-anno.xmi",
+    "user" : "Callum",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "sentence_accessed" : 0,
+    "created" : 1644963380167,
+    "updated" : 1644963380167
+  }, {
+    "name" : "101-anno.xmi",
+    "user" : "Callum",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "sentence_accessed" : 0,
+    "created" : 1644963391423,
+    "updated" : 1644963391423
+  }, {
+    "name" : "102-anno.xmi",
+    "user" : "Callum",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "sentence_accessed" : 0,
+    "created" : 1644963419196,
+    "updated" : 1644963419196
+  }, {
+    "name" : "103-anno.xmi",
+    "user" : "Callum",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "sentence_accessed" : 0,
+    "created" : 1644963430857,
+    "updated" : 1644963430857
+  }, {
+    "name" : "104-anno.xmi",
+    "user" : "Callum",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "sentence_accessed" : 0,
+    "created" : 1644963443329,
+    "updated" : 1644963443329
+  }, {
+    "name" : "128-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645055918628,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645051718394,
+    "updated" : 1645055918628
+  }, {
+    "name" : "129-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645060794927,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645057472948,
+    "updated" : 1645060794927
+  }, {
+    "name" : "1-anno.xmi",
+    "user" : "remote-user",
+    "state" : "NEW",
+    "timestamp" : null,
+    "annotatorState" : null,
+    "sentence_accessed" : 0,
+    "created" : 1645112147883,
+    "updated" : 1645112158180
+  }, {
+    "name" : "13-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645123646010,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645123288639,
+    "updated" : 1645123646010
+  }, {
+    "name" : "14-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645124482788,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645123658791,
+    "updated" : 1645124482788
+  }, {
+    "name" : "15-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645127140535,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645126364937,
+    "updated" : 1645127140535
+  }, {
+    "name" : "16-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645128985908,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645127871930,
+    "updated" : 1645128985908
+  }, {
+    "name" : "17-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645129678505,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645129271241,
+    "updated" : 1645129678505
+  }, {
+    "name" : "18-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645156519524,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645155009788,
+    "updated" : 1645156519524
+  }, {
+    "name" : "19-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645203693013,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645202457666,
+    "updated" : 1645203693013
+  }, {
+    "name" : "20-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645212319706,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645211415777,
+    "updated" : 1645212319706
+  }, {
+    "name" : "21-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645237014335,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645236816489,
+    "updated" : 1645237014335
+  }, {
+    "name" : "22-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645237288755,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645237033122,
+    "updated" : 1645237288755
+  }, {
+    "name" : "20-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645318073007,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645317710221,
+    "updated" : 1645318073007
+  }, {
+    "name" : "21-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645323432365,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645318289409,
+    "updated" : 1645323432365
+  }, {
+    "name" : "22-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645323639881,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645323444324,
+    "updated" : 1645323639881
+  }, {
+    "name" : "23-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645483183212,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645323650093,
+    "updated" : 1645483183212
+  }, {
+    "name" : "24-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645484143276,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645483197601,
+    "updated" : 1645484143276
+  }, {
+    "name" : "25-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645484499312,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645484187307,
+    "updated" : 1645484499312
+  }, {
+    "name" : "26-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645484925263,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645484517127,
+    "updated" : 1645484925263
+  }, {
+    "name" : "27-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645485456708,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645484983292,
+    "updated" : 1645485456708
+  }, {
+    "name" : "28-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645541379102,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645540993370,
+    "updated" : 1645541379102
+  }, {
+    "name" : "29-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645541643126,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645541396971,
+    "updated" : 1645541643126
+  }, {
+    "name" : "30-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645542392698,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645541680620,
+    "updated" : 1645542392698
+  }, {
+    "name" : "31-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645544165726,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645542400450,
+    "updated" : 1645544165726
+  }, {
+    "name" : "32-anno.xmi",
+    "user" : "Callum",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1645544400828,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1645544178592,
+    "updated" : 1645544400829
+  }, {
+    "name" : "23-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1646020199536,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1646016662084,
+    "updated" : 1646020199536
+  }, {
+    "name" : "25-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647191258930,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1646022644320,
+    "updated" : 1647191258930
+  }, {
+    "name" : "100-anno.xmi",
+    "user" : "student",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1646735895611,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1646658281346,
+    "updated" : 1646735895611
+  }, {
+    "name" : "10-anno.xmi",
+    "user" : "student",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1646735544795,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1646735253842,
+    "updated" : 1646735544795
+  }, {
+    "name" : "101-anno.xmi",
+    "user" : "student",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1646743822934,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1646742733302,
+    "updated" : 1646743822934
+  }, {
+    "name" : "24-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647659794028,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647659393474,
+    "updated" : 1647659794028
+  }, {
+    "name" : "26-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647979537754,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647979102032,
+    "updated" : 1647979537754
+  }, {
+    "name" : "27-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647980193457,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647979600662,
+    "updated" : 1647980193457
+  }, {
+    "name" : "28-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647980807282,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647980237070,
+    "updated" : 1647980807282
+  }, {
+    "name" : "29-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647981390718,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647980838468,
+    "updated" : 1647981390719
+  }, {
+    "name" : "30-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647981732384,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647981426474,
+    "updated" : 1647981732384
+  }, {
+    "name" : "31-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647982295487,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647981767530,
+    "updated" : 1647982295487
+  }, {
+    "name" : "32-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647982549524,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647982316240,
+    "updated" : 1647982549524
+  }, {
+    "name" : "33-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1647983301240,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1647982571950,
+    "updated" : 1647983301240
+  }, {
+    "name" : "34-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648151621992,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648151112890,
+    "updated" : 1648151621992
+  }, {
+    "name" : "35-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648152292031,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648151788289,
+    "updated" : 1648152292032
+  }, {
+    "name" : "36-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648152746387,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648152318162,
+    "updated" : 1648152746387
+  }, {
+    "name" : "37-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648153197394,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648152791925,
+    "updated" : 1648153197395
+  }, {
+    "name" : "38-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648249615611,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648249309954,
+    "updated" : 1648249615611
+  }, {
+    "name" : "39-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648250698233,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648249674484,
+    "updated" : 1648250698233
+  }, {
+    "name" : "4-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648933157951,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648932746296,
+    "updated" : 1648933157951
+  }, {
+    "name" : "40-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1648946933291,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1648946155780,
+    "updated" : 1648946933291
+  }, {
+    "name" : "41-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1649464354050,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1649464046038,
+    "updated" : 1649464354050
+  }, {
+    "name" : "42-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1649465495379,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1649465014593,
+    "updated" : 1649465495379
+  }, {
+    "name" : "43-anno.xmi",
+    "user" : "Jonah",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1649535185782,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1649535018138,
+    "updated" : 1649535185782
+  } ],
+  "project_permissions" : [ {
+    "level" : "USER",
+    "user" : "Callum"
+  }, {
+    "level" : "USER",
+    "user" : "Jonah"
+  }, {
+    "level" : "ADMIN",
+    "user" : "admin"
+  }, {
+    "level" : "CURATOR",
+    "user" : "admin"
+  }, {
+    "level" : "USER",
+    "user" : "admin"
+  }, {
+    "level" : "ADMIN",
+    "user" : "chantal"
+  }, {
+    "level" : "CURATOR",
+    "user" : "chantal"
+  }, {
+    "level" : "USER",
+    "user" : "chantal"
+  }, {
+    "level" : "ADMIN",
+    "user" : "remote-user"
+  }, {
+    "level" : "CURATOR",
+    "user" : "remote-user"
+  }, {
+    "level" : "USER",
+    "user" : "remote-user"
+  }, {
+    "level" : "USER",
+    "user" : "student"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Coreference mentions",
+    "description" : "coreference type annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "nam",
+      "tag_description" : "nam"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Coreference relations",
+    "description" : "coreference relation annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "anaphoric",
+      "tag_description" : "anaphoric"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Dependency flavors",
+    "description" : "Dependency flavors",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "basic",
+      "tag_description" : "basic"
+    }, {
+      "tag_name" : "enhanced",
+      "tag_description" : "enhanced"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Named Entity tags",
+    "description" : "Named Entity annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "LOC",
+      "tag_description" : "Location"
+    }, {
+      "tag_name" : "LOCderiv",
+      "tag_description" : "Location derivative"
+    }, {
+      "tag_name" : "LOCpart",
+      "tag_description" : "Hyphenated part is location"
+    }, {
+      "tag_name" : "ORG",
+      "tag_description" : "Organization"
+    }, {
+      "tag_name" : "ORGderiv",
+      "tag_description" : "Organization derivative"
+    }, {
+      "tag_name" : "ORGpart",
+      "tag_description" : "Hyphenated part is organization"
+    }, {
+      "tag_name" : "OTH",
+      "tag_description" : "Other: Every name that is not a location, person or organisation"
+    }, {
+      "tag_name" : "OTHderiv",
+      "tag_description" : "Other derivative"
+    }, {
+      "tag_name" : "OTHpart",
+      "tag_description" : "Hyphenated part is Other"
+    }, {
+      "tag_name" : "PER",
+      "tag_description" : "Person"
+    }, {
+      "tag_name" : "PERderiv",
+      "tag_description" : "Person derivative"
+    }, {
+      "tag_name" : "PERpart",
+      "tag_description" : "Hyphenated part is person"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Operation",
+    "description" : "operation to be done with specified in tokenIDs token/tokens in order to correct",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "delete",
+      "tag_description" : "delete"
+    }, {
+      "tag_name" : "insert_after",
+      "tag_description" : "insert after"
+    }, {
+      "tag_name" : "insert_before",
+      "tag_description" : "insert before"
+    }, {
+      "tag_name" : "replace",
+      "tag_description" : "replace"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "StanzaNER_entities",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "CARDINAL",
+      "tag_description" : null
+    }, {
+      "tag_name" : "DATE",
+      "tag_description" : null
+    }, {
+      "tag_name" : "EVENT",
+      "tag_description" : null
+    }, {
+      "tag_name" : "FAC",
+      "tag_description" : "Facility"
+    }, {
+      "tag_name" : "GPE",
+      "tag_description" : "Countries/cities/states"
+    }, {
+      "tag_name" : "LANGUAGE",
+      "tag_description" : null
+    }, {
+      "tag_name" : "LAW",
+      "tag_description" : null
+    }, {
+      "tag_name" : "LOC",
+      "tag_description" : "Location"
+    }, {
+      "tag_name" : "MONEY",
+      "tag_description" : null
+    }, {
+      "tag_name" : "NORP",
+      "tag_description" : "Nationalities/religious/political group"
+    }, {
+      "tag_name" : "ORDINAL",
+      "tag_description" : null
+    }, {
+      "tag_name" : "ORG",
+      "tag_description" : "Organization"
+    }, {
+      "tag_name" : "PERCENT",
+      "tag_description" : null
+    }, {
+      "tag_name" : "PERSON",
+      "tag_description" : null
+    }, {
+      "tag_name" : "PRODUCT",
+      "tag_description" : null
+    }, {
+      "tag_name" : "QUANTITY",
+      "tag_description" : null
+    }, {
+      "tag_name" : "TIME",
+      "tag_description" : null
+    }, {
+      "tag_name" : "WORK_OF_ART",
+      "tag_description" : null
+    }, {
+      "tag_name" : "asdfaa",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "UD Universal Dependencies (v2)",
+    "description" : "The idea of universal dependencies is to propose a set of universal grammatical relations which can be used with relative fidelity to capture any dependency relation between words in any language. Each dependency relation should be typed with one of the relations in the table below.\r\n\r\nThe following table lists the 37 universal syntactic relations used in UD v2. It is a revised version of the relations originally described in Universal Stanford Dependencies: A cross-linguistic typology (de Marneffe et al. 2014).\r\n\r\n© 2014-2017 Universal Dependencies contributors.\r\n\r\nSee also: https://universaldependencies.org/u/dep/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "acl",
+      "tag_description" : "clausal modifier of noun (adjectival clause)"
+    }, {
+      "tag_name" : "advcl",
+      "tag_description" : "adverbial clause modifier"
+    }, {
+      "tag_name" : "advmod",
+      "tag_description" : "adverbial modifier"
+    }, {
+      "tag_name" : "amod",
+      "tag_description" : "adjectival modifier"
+    }, {
+      "tag_name" : "appos",
+      "tag_description" : "appositional modifier"
+    }, {
+      "tag_name" : "aux",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "case",
+      "tag_description" : "case marking"
+    }, {
+      "tag_name" : "cc",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "ccomp",
+      "tag_description" : "clausal complement"
+    }, {
+      "tag_name" : "clf",
+      "tag_description" : "classifier"
+    }, {
+      "tag_name" : "compound",
+      "tag_description" : "compound"
+    }, {
+      "tag_name" : "conj",
+      "tag_description" : "conjunct"
+    }, {
+      "tag_name" : "cop",
+      "tag_description" : "copula"
+    }, {
+      "tag_name" : "csubj",
+      "tag_description" : "clausal subject"
+    }, {
+      "tag_name" : "dep",
+      "tag_description" : "unspecified dependency"
+    }, {
+      "tag_name" : "det",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "discourse",
+      "tag_description" : "discourse element"
+    }, {
+      "tag_name" : "dislocated",
+      "tag_description" : "dislocated elements"
+    }, {
+      "tag_name" : "expl",
+      "tag_description" : "expletive"
+    }, {
+      "tag_name" : "fixed",
+      "tag_description" : "fixed multiword expression"
+    }, {
+      "tag_name" : "flat",
+      "tag_description" : "flat multiword expression"
+    }, {
+      "tag_name" : "goeswith",
+      "tag_description" : "goes with"
+    }, {
+      "tag_name" : "iobj",
+      "tag_description" : "indirect object"
+    }, {
+      "tag_name" : "list",
+      "tag_description" : "list"
+    }, {
+      "tag_name" : "mark",
+      "tag_description" : "marker"
+    }, {
+      "tag_name" : "nmod",
+      "tag_description" : "nominal modifier"
+    }, {
+      "tag_name" : "nsubj",
+      "tag_description" : "nominal subject"
+    }, {
+      "tag_name" : "nummod",
+      "tag_description" : "numeric modifier"
+    }, {
+      "tag_name" : "obj",
+      "tag_description" : "object"
+    }, {
+      "tag_name" : "obl",
+      "tag_description" : "oblique nominal"
+    }, {
+      "tag_name" : "orphan",
+      "tag_description" : "orphan"
+    }, {
+      "tag_name" : "parataxis",
+      "tag_description" : "parataxis"
+    }, {
+      "tag_name" : "punct",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "reparandum",
+      "tag_description" : "overridden disfluency"
+    }, {
+      "tag_name" : "root",
+      "tag_description" : "root"
+    }, {
+      "tag_name" : "vocative",
+      "tag_description" : "vocative"
+    }, {
+      "tag_name" : "xcomp",
+      "tag_description" : "open clausal complement"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal POS tags (v2)",
+    "description" : "These tags mark the core part-of-speech categories from the Universal Dependencies project. To distinguish additional lexical and grammatical properties of words, use the universal features.\r\n\r\n© 2017 Universal Dependencies contributors\r\n\r\nSee: https://universaldependencies.org/u/pos/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "ADJ",
+      "tag_description" : "adjective"
+    }, {
+      "tag_name" : "ADP",
+      "tag_description" : "adposition"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "adverb"
+    }, {
+      "tag_name" : "AUX",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "CCONJ",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "INTJ",
+      "tag_description" : "interjection"
+    }, {
+      "tag_name" : "NOUN",
+      "tag_description" : "noun"
+    }, {
+      "tag_name" : "NUM",
+      "tag_description" : "numeral"
+    }, {
+      "tag_name" : "PART",
+      "tag_description" : "particle"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "pronoun"
+    }, {
+      "tag_name" : "PROPN",
+      "tag_description" : "proper noun"
+    }, {
+      "tag_name" : "PUNCT",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "SCONJ",
+      "tag_description" : "subordinating conjunction"
+    }, {
+      "tag_name" : "SYM",
+      "tag_description" : "symbol"
+    }, {
+      "tag_name" : "VERB",
+      "tag_description" : "verb"
+    }, {
+      "tag_name" : "X",
+      "tag_description" : "other"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "relations_of_interest",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "Defended",
+      "tag_description" : null
+    }, {
+      "tag_name" : "alias",
+      "tag_description" : null
+    }, {
+      "tag_name" : "appraised_art_for",
+      "tag_description" : null
+    }, {
+      "tag_name" : "arrested_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "arrested_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "authenticated",
+      "tag_description" : null
+    }, {
+      "tag_name" : "bordered_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "borrowed",
+      "tag_description" : null
+    }, {
+      "tag_name" : "borrowed_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "bought",
+      "tag_description" : null
+    }, {
+      "tag_name" : "bought_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "claimed_to_buy_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "claimed_to_come_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "closed_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "consigned_through",
+      "tag_description" : null
+    }, {
+      "tag_name" : "created_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "curator_of",
+      "tag_description" : null
+    }, {
+      "tag_name" : "discovered_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "donated",
+      "tag_description" : null
+    }, {
+      "tag_name" : "donated_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "established",
+      "tag_description" : null
+    }, {
+      "tag_name" : "excavated",
+      "tag_description" : null
+    }, {
+      "tag_name" : "exhibited",
+      "tag_description" : null
+    }, {
+      "tag_name" : "from_culture",
+      "tag_description" : "tombs from_culture mycenean"
+    }, {
+      "tag_name" : "home of",
+      "tag_description" : null
+    }, {
+      "tag_name" : "home_of",
+      "tag_description" : null
+    }, {
+      "tag_name" : "illegally_paid",
+      "tag_description" : null
+    }, {
+      "tag_name" : "implicated_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "in",
+      "tag_description" : "date for when something happened"
+    }, {
+      "tag_name" : "investigated",
+      "tag_description" : null
+    }, {
+      "tag_name" : "left",
+      "tag_description" : null
+    }, {
+      "tag_name" : "listed_on",
+      "tag_description" : null
+    }, {
+      "tag_name" : "located_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "looted",
+      "tag_description" : "active verb: medici looted statues"
+    }, {
+      "tag_name" : "looted_from",
+      "tag_description" : "object was looted from a location"
+    }, {
+      "tag_name" : "offered_for_sale",
+      "tag_description" : null
+    }, {
+      "tag_name" : "operated_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "owned",
+      "tag_description" : null
+    }, {
+      "tag_name" : "part_of",
+      "tag_description" : null
+    }, {
+      "tag_name" : "participated_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "partners_with",
+      "tag_description" : null
+    }, {
+      "tag_name" : "president_of",
+      "tag_description" : null
+    }, {
+      "tag_name" : "raided_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "recovered",
+      "tag_description" : null
+    }, {
+      "tag_name" : "recovered_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "recovered_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "rejected",
+      "tag_description" : null
+    }, {
+      "tag_name" : "related_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "relationship_with",
+      "tag_description" : null
+    }, {
+      "tag_name" : "restricted_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "restrictied_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "returned",
+      "tag_description" : null
+    }, {
+      "tag_name" : "returned_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "salvaged",
+      "tag_description" : null
+    }, {
+      "tag_name" : "smuggled",
+      "tag_description" : null
+    }, {
+      "tag_name" : "smuggled_antiquitie_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "smuggled_antiquities_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "smuggled_antiquities_through",
+      "tag_description" : null
+    }, {
+      "tag_name" : "smuggled_antiquities_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "smuggled_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sold",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sold_antiquities_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sold_antiquities_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sold_antiquities_through",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sold_antiquities_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "sold_to",
+      "tag_description" : null
+    }, {
+      "tag_name" : "stole",
+      "tag_description" : null
+    }, {
+      "tag_name" : "stolen_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "stolen_from",
+      "tag_description" : null
+    }, {
+      "tag_name" : "stored_antiquities_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "wanted_by",
+      "tag_description" : null
+    }, {
+      "tag_name" : "was_in",
+      "tag_description" : null
+    }, {
+      "tag_name" : "was_secretary_at",
+      "tag_description" : null
+    }, {
+      "tag_name" : "was_secretary_for",
+      "tag_description" : null
+    }, {
+      "tag_name" : "worked_for",
+      "tag_description" : null
+    }, {
+      "tag_name" : "worked_with",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  } ],
+  "layers" : [ {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk",
+    "features" : [ {
+      "name" : "chunkValue",
+      "tag_set" : null,
+      "uiName" : "Tag",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Chunk tag",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Chunk",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.coref.type.Coreference",
+    "features" : [ {
+      "name" : "referenceRelation",
+      "tag_set" : {
+        "name" : "Coreference relations",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceRelation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference relation",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "referenceType",
+      "tag_set" : {
+        "name" : "Coreference mentions",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceType",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference type",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Coreference",
+    "type" : "chain",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",
+    "features" : [ {
+      "name" : "flavor",
+      "tag_set" : {
+        "name" : "Dependency flavors",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Flavor",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "DependencyType",
+      "tag_set" : {
+        "name" : "UD Universal Dependencies (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Relation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Dependency",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Lemma",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "lemma Annotation",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Lemma",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "lemma",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Features",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Morphological features",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Morphological features",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "morph",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "features" : [ {
+      "name" : "identifier",
+      "tag_set" : null,
+      "uiName" : "identifier",
+      "type" : "kb:<ANY>",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Linked entity",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "value",
+      "tag_set" : {
+        "name" : "Named Entity tags",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Named entity type",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Named entity",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Correction",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Correct this token using the specified operation.",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "operation",
+      "tag_set" : {
+        "name" : "Operation",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : true,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "An operation taken to change this token.",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Orthography Correction",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+    "features" : [ {
+      "name" : "coarseValue",
+      "tag_set" : {
+        "name" : "UD Universal POS tags (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "UPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Universal part-of-speech tag",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "PosValue",
+      "tag_set" : null,
+      "uiName" : "XPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Language-specific part-of-speech tag",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Part of speech",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+    "features" : [ ],
+    "uiName" : "SemArg",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemPred",
+    "features" : [ {
+      "name" : "arguments",
+      "tag_set" : null,
+      "uiName" : "arguments",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Arguments of the semantic predicate",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "ARRAY",
+      "link_mode" : "WITH_ROLE",
+      "link_type_name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArgLink",
+      "link_type_role_feature_name" : "role",
+      "link_type_target_feature_name" : "target",
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "category",
+      "tag_set" : null,
+      "uiName" : "category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Category of the semantic predicate, e.g. the frame identifier.",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "SemPred",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "features" : [ ],
+    "uiName" : "Sentence",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.StanzaNER",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : {
+        "name" : "StanzaNER_entities",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "StanzaNER",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.SurfaceForm",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Form",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Original surface text",
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Surface form",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ {
+      "name" : "lemma",
+      "tag_set" : null,
+      "uiName" : "lemma",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "morph",
+      "tag_set" : null,
+      "uiName" : "morph",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "pos",
+      "tag_set" : null,
+      "uiName" : "pos",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Relationships",
+    "features" : [ {
+      "name" : "Relationship",
+      "tag_set" : {
+        "name" : "relations_of_interest",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Relationship",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "trafficking-culture-annotations",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "relationships",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.StanzaNER"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "trafficking-culture-annotations",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]},\"renderArcs\":true}"
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1638550783135,
+  "updated" : 1645112420391,
+  "anonymous_curation" : false,
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "project_users" : [ ],
+  "recommenders" : [ ],
+  "gazeteers" : [ ]
+}
